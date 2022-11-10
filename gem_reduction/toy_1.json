@@ -107,8 +107,8 @@
 "B":-1.0,
 "D":2.0
 },
-"lower_bound":-100,
-"upper_bound":100,
+"lower_bound":0.1,
+"upper_bound":1,
 "gene_reaction_rule":""
 },
 {
