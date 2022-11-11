@@ -1,5 +1,8 @@
 import xgboost as xgb
-from sklearn.model_selection import cross_val_score, KFold, RandomizedSearchCV
+from sklearn.metrics import roc_auc_score
+from sklearn.model_selection import KFold, RandomizedSearchCV, cross_val_score
+from sklearn.svm import SVC
+
 
 kf = KFold(n_splits=3, shuffle=True, random_state=4)
 
@@ -24,3 +27,29 @@ def xgb_classifier(X, y):
     score = cross_val_score(xgb_clas, X, y, cv=kf)
 
     return xgb_clas.best_estimator_, score
+
+def train_svm(X, y):
+
+    parameters = {
+        'C' : [.01, .05, .1, .5, 1, 10, 100],
+        'gamma' : [.01, .1, .5, 1, 2, 5, 10],
+        'kernel' : ['rbf', 'linear']
+    }    
+
+    estimator = SVC()
+
+    # --------------- RandomizedSearchCV ------------------- #
+    tune_model = RandomizedSearchCV(estimator, parameters, n_iter=20, random_state=2, 
+                    verbose=10, cv=kf, scoring='roc_auc', n_jobs=-1)
+
+    tune_model.fit(X, y)
+
+    score = cross_val_score(tune_model, X, y, cv=kf)
+
+    return tune_model.best_estimator_, score
+
+
+def validation_classification(model, X_test, y_test):
+    pred = model.predict(X_test)
+    print('ROC-AUC =', roc_auc_score(y_test, pred))
+    return
