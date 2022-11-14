@@ -1,5 +1,5 @@
 import xgboost as xgb
-from sklearn.metrics import roc_auc_score
+from sklearn.metrics import roc_auc_score, f1_score, accuracy_score
 from sklearn.model_selection import KFold, RandomizedSearchCV, cross_val_score
 from sklearn.svm import SVC
 
@@ -52,4 +52,6 @@ def train_svm(X, y):
 def validation_classification(model, X_test, y_test):
     pred = model.predict(X_test)
     print('ROC-AUC =', roc_auc_score(y_test, pred))
+    print('ACCURACY =', accuracy_score(y_test, pred))
+    print('F1 =', f1_score(y_test, pred))
     return
