@@ -19,7 +19,7 @@ def xgb_classifier(X, y):
     estimator = xgb.XGBClassifier()
 
     # --------------- RandomizedSearchCV ------------------- #
-    xgb_clas = RandomizedSearchCV(estimator, parameters, n_iter=20, random_state=2, 
+    xgb_clas = RandomizedSearchCV(estimator, parameters, n_iter=50, random_state=2, 
                     verbose=10, cv=kf, scoring='roc_auc', n_jobs=-1)
 
     xgb_clas.fit(X, y)
@@ -31,15 +31,15 @@ def xgb_classifier(X, y):
 def train_svm(X, y):
 
     parameters = {
-        'C' : [.01, .05, .1, .5, 1, 10, 100],
-        'gamma' : [.01, .1, .5, 1, 2, 5, 10],
+        'C' : [0.001, 0.005, .01, 0.02, .05, .1],
+        'gamma' : [1, 2, 3],
         'kernel' : ['rbf', 'linear']
     }    
 
     estimator = SVC()
 
     # --------------- RandomizedSearchCV ------------------- #
-    tune_model = RandomizedSearchCV(estimator, parameters, n_iter=20, random_state=2, 
+    tune_model = RandomizedSearchCV(estimator, parameters, n_iter=50, random_state=2, 
                     verbose=10, cv=kf, scoring='roc_auc', n_jobs=-1)
 
     tune_model.fit(X, y)
