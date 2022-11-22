@@ -1,0 +1,106 @@
+,Relationship,name_source,Categorisation_target,Category_target,Description_target,Dimensions_target,EDescription_target,Form_target,Free_of_target,GDescription_target,Material_target,Specifications_target,Title_target,full_community_id_target,name_target
+0,IS_PROCESSED_WITH,Pyrometallurgical,semi-red brass castings (78% to 81% copper); railroad car boxes and other similar high-lead alloys; cocks and faucets; closed water meters; gates; pot pieces; ingots and burned brass; aluminum,,,Ebony,,Made of copper,semi-red brass castings (78% to 81% copper); railroad car boxes and other similar high-lead alloys; cocks and faucets; closed water meters; gates; pot pieces; ingots and burned brass; aluminum,,Composition or Red Brass,Nonferrous Scrap - Red Metals,No piece to measure more than 12� over any one part or weigh over 100 lbs.,Red Brass,Valves
+1,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Alloyed with copper,,,Lead-Free Bismuth Brass Turnings,Nonferrous Scrap - Red Metals,Ecstatic,Brass,Scrap borings and turnings
+2,IS_PROCESSED_WITH,Pyrometallurgical,brass forgings,,,Ivory,,not to contain more than 15% nickel plated material,brass forgings,,,Nonferrous Scrap - Red Metals,no piece to measure more than 12 inches over any one part,Yellow Brass Castings,Castings in crucible shape 
+3,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Alloyed with copper,,,Leaded Brass Scrap Rod Ends and Forgings,Nonferrous Scrap - Red Metals,Niche,Leaded Brass,Rod ends and forgings
+4,IS_PROCESSED_WITH,Pyrometallurgical,Yellow boxes and iron-backed boxes,,,,,Standard unlined and/or sweated railroad boxes and unlined and/or sweated car journal bearings,Yellow boxes and iron-backed boxes,,,Nonferrous Scrap - Red Metals,Fence,Unlined Standard Red Car Boxes (Clean Journals),Red car boxes (clean journals)
+5,IS_PROCESSED_WITH,Pyrometallurgical,Plated and soldered materials or pipes with cast brass connections,,,,,To be sound,Plated and soldered materials or pipes with cast brass connections,,Brass Pipe,Nonferrous Scrap - Red Metals,Melon,Brass,Pipe 
+6,IS_PROCESSED_WITH,Pyrometallurgical,Aluminum radiators,,,,,Mixed automobile radiators. All radiators to be subject to deduction of actual iron. The tonnage specification should cover the gross weight of the radiators,Aluminum radiators,,,Nonferrous Scrap - Red Metals,Ocean,Mixed Unsweated Auto Radiators,Radiators
+7,IS_PROCESSED_WITH,Pyrometallurgical,Insulated wire,,,,,a minimum of 61.3% copper and maximum 5% iron,Insulated wire,,Refinery Brass,Nonferrous Scrap - Red Metals,Drink,Brass,Solids and turnings and alloyed and contaminated copper scrap
+8,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,with various types of insulation. To be sold on a sample or recovery basis,,,Insulated Copper Wire Scrap,Nonferrous Scrap - Red Metals,Droid,Copper ,Wire 
+9,IS_PROCESSED_WITH,Pyrometallurgical,Brittle Burnt Wire,,,No. 1 Copper Wire,,Clean,Brittle Burnt Wire,,Wire gauge subject to agreement between buyer and seller,Nonferrous Scrap - Red Metals,Barley,Copper ,Wire and Cable 
+10,IS_PROCESSED_WITH,Pyrometallurgical,primers and any other foreign material,,,,,Clean. For material to be exported from the United States,primers and any other foreign material,,Brass Shell Cases Without Primers,Nonferrous Scrap - Red Metals,Lace,Brass,Fired 70/30 shell cases
+11,IS_PROCESSED_WITH,Pyrometallurgical,bullets,,,,,Clean. For material to be exported from the United States,bullets,,Brass Small Arms and Rifle Shells,Nonferrous Scrap - Red Metals,Lake,Brass,Rifle shells
+12,IS_PROCESSED_WITH,Pyrometallurgical,bullets,,,,,Clean muffled. For material to be exported from the United States,bullets,,Brass Small Arms and Rifle Shells,Nonferrous Scrap - Red Metals,Lamb,Brass,Rifle shells
+13,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,clean,,,No. 1 Heavy Copper Solids and Tubing,Nonferrous Scrap - Red Metals,Candy,Copper ,Clippings
+14,IS_PROCESSED_WITH,Pyrometallurgical,Burnt hair wire; copper clad; plating racks; grindings; copper wire from burning,,,,,Unalloyed. Nominal 92% copper content (minimum 88%),Burnt hair wire; copper clad; plating racks; grindings; copper wire from burning,,Light Copper,Nonferrous Scrap - Red Metals,Dream,Copper ,Miscellaneous scrap
+15,IS_PROCESSED_WITH,Pyrometallurgical,Gas cocks,,,,,Clean red and yellow brass,Gas cocks,,Cocks and Faucets,Nonferrous Scrap - Red Metals,Grape,Red Brass/Yellow Brass including chrome or nickel plated,Cocks and Faucets
+16,IS_PROCESSED_WITH,Pyrometallurgical,any other foreign material,,,,,Clean.Containing the brass primers. For material to be exported from the United States,any other foreign material,,Brass Shell Cases With Primers,Nonferrous Scrap - Red Metals,Lady,Bras,Fired 70/30 shell cases
+17,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,To be sold by sample or analysis,,,null,Nonferrous Scrap - Red Metals,Niece,Nickel Silver,Turnings
+18,IS_PROCESSED_WITH,Pyrometallurgical,Manganese-bronze,,,,,Nonferrous Scrap - Red Metals,Manganese-bronze,,Yellow Brass Scrap,,Honey,Yellow brass,Mixed Solids
+19,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,It is recommended that these materials be sold on sample or analysis.,,,High Lead Bronze Solids and Borings,Nonferrous Scrap - Red Metals,Elias,Bronze,Solids and Borings
+20,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Alloyed with copper,,,Leaded Brass Scrap Turnings,Nonferrous Scrap - Red Metals,Nascent,Leaded Brass,Borings and turnings
+21,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Should be sold subject to sample or analysis.,,,Red Brass Composition Turnings,Nonferrous Scrap - Red Metals,Enerv,Red Brass,Turnings
+22,IS_PROCESSED_WITH,Pyrometallurgical,lined and unlined standard red car boxes.,,,,,Copper content of not less than 75%,lined and unlined standard red car boxes.,,Machinery or Hard Brass Solids,Nonferrous Scrap - Red Metals,Engel,Brass,Solids
+23,IS_PROCESSED_WITH,Pyrometallurgical,Aluminum,,,,,Not to contain over 3% of free iron,Aluminum,,Yellow Brass Turnings,Nonferrous Scrap - Red Metals,Nomad,Yellow brass,Turnings
+24,IS_PROCESSED_WITH,Pyrometallurgical,Excessive insulation and other non-metallics,,,,,Unalloyed,Excessive insulation and other non-metallics,,Copper Wire Nodules,Nonferrous Scrap - Red Metals,Cocoa,Copper ,Wire scrap nodules
+25,IS_PROCESSED_WITH,Pyrometallurgical,Chrome or any other plating material,,,,,New,Chrome or any other plating material,,New Nickel Silver Clippings and Solids,Nonferrous Scrap - Red Metals,Major,Nickel Silver,Clippings
+26,IS_PROCESSED_WITH,Pyrometallurgical,leaded brass attachments and have less than 0.2% alloyed lead or as agreed between buyer and seller.,,,,,Alloyed with copper,leaded brass attachments and have less than 0.2% alloyed lead or as agreed between buyer and seller.,,Lead-Free Bismuth Brass Solids,Nonferrous Scrap - Red Metals,Ebulent,Brass,Scrap castings
+27,IS_PROCESSED_WITH,Pyrometallurgical,Yellow boxes and iron-backed boxes,,,,,Standard babbitt-lined railroad boxes and/or babbitt-lined car journal bearings,Yellow boxes and iron-backed boxes,,,Nonferrous Scrap - Red Metals,Ferry,Lined Standard Red Car Boxes (Lined Journals),Red car boxes (lined journals)
+28,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,No. 1 Copper Wire,,Bare,,,Wire gauge subject to agreement between buyer and seller,Nonferrous Scrap - Red Metals,Berry,Copper ,Wire 
+29,IS_PROCESSED_WITH,Pyrometallurgical,Excessive corroded material as mutually agreed,,,,,Clean. May be plated or unplated,Excessive corroded material as mutually agreed,,Brass Condenser Tubes,Nonferrous Scrap - Red Metals,Pales,Brass,Condenser tubes
+30,IS_PROCESSED_WITH,Pyrometallurgical,Aluminum,,,,,Not to contain over 3% free iron,Aluminum,,Yellow Brass Rod Turnings,Nonferrous Scrap - Red Metals,Night,Yellow brass,Rod turnings (strictly)
+31,IS_PROCESSED_WITH,Pyrometallurgical,iron,,,,,Clean,iron,,Yellow Brass Primer,Nonferrous Scrap - Red Metals,Lark,Yellow Brass,Primers
+32,IS_PROCESSED_WITH,Pyrometallurgical,Aluminum bronze and silicon bronze.,,,,,Copper content of not less than 55%,Aluminum bronze and silicon bronze.,,Manganese Bronze Solids,Nonferrous Scrap - Red Metals,Parch,Manganese bronze,Solids 
+33,IS_PROCESSED_WITH,Pyrometallurgical,insulated wires; copper chlorides; unprepared tangled material; large motors; pyrophoric material; asbestos brake linings; furnace bottoms; high lead materials; graphite crucibles; and noxious and explosive materials.,,,,,Nonferrous Scrap - Red Metals,insulated wires; copper chlorides; unprepared tangled material; large motors; pyrophoric material; asbestos brake linings; furnace bottoms; high lead materials; graphite crucibles; and noxious and explosive materials.,,Copper-Bearing Scrap,,Drove,Irony brass and copper,Miscellaneous skimmings
+34,IS_PROCESSED_WITH,Pyrometallurgical,from foreign substances,,,,,new unleaded yellow brass sheet or plate,from foreign substances,,New Brass Clipings,Nonferrous Scrap - Red Metals,Label,Brass,Clippings
+35,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,Druid,,Uncoated,,,Insulated Copper Wire Scrap,Nonferrous Scrap - Red Metals,not smaller than No. 16 B & S wire gauge (unless smaller wire gauge is mutually agreed upon),Copper,Wire
+36,IS_PROCESSED_WITH,Pyrometallurgical,excessively leaded,,,,,Unalloyed,excessively leaded,,No. 2 Copper Solids and Tubing,Nonferrous Scrap - Red Metals,Cliff,Copper ,Miscellaneous Scrap
+37,IS_PROCESSED_WITH,Pyrometallurgical,Foreign substances,,,,,Old. Soldered or unsoldered. Must not be trimmed seams alone.,Foreign substances,,Old Nickel Silver,Nonferrous Scrap - Red Metals,Malic,Nickel Silver,Sheet
+38,IS_PROCESSED_WITH,Pyrometallurgical,iron-backed bearings,,,,,from automobiles and other machinery,iron-backed bearings,,null,Nonferrous Scrap - Red Metals,Elder,Brass,Bushings and bearings
+39,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Unalloyed,,,No. 2 Copper Wire Nodules,Nonferrous Scrap - Red Metals,Cobra,Copper ,Wire scrap nodules
+40,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Copper content of not less than 75%,,,Machinery or Hard Brass Borings,Nonferrous Scrap - Red Metals,Erin,Brass,Borings
+41,IS_PROCESSED_WITH,Pyrometallurgical,Tin,,,Clove,,Uncoated,Tin,,No. 1 Copper Wire Nodules,Nonferrous Scrap - Red Metals,Gauge smaller than No. 16 B & S wire subject to agreement between buyer and seller,[Copper ,Wire scrap nodules
+42,IS_PROCESSED_WITH,Pyrometallurgical,chrome or any other plating material,,,,,One or more nickel silver alloys the range of nickel content to be specified. Leaded nickel silver clippings should be packed and sold separately. Not to contain more than 10% of clean punchings under 1/4 inch,chrome or any other plating material,,Mixed New Nickel Silver Clippings,Nonferrous Scrap - Red Metals,Maize,Nickel Silver,Clippings
+43,IS_PROCESSED_WITH,Pyrometallurgical,Nickel alloy,,,,,Clean,Nickel alloy,,Muntz Metal Tubes,Nonferrous Scrap - Red Metals,Palms,Muntz metal ,Tubes
+44,IS_PROCESSED_WITH,Pyrometallurgical,Excessively leaded,,,,,Unalloyed,Excessively leaded,,No. 2 Copper Wire,Nonferrous Scrap - Red Metals,Birch,Copper ,Miscellaneous
+45,IS_PROCESSED_WITH,Pyrometallurgical,Nickel alloy and corroded material,,,,,Clean. May be plated or unplated,Nickel alloy and corroded material,,Aluminum Brass Condenser Tubes,Nonferrous Scrap - Red Metals,Pallu,Aluminum Brass,Condenser tubes
+46,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,Shall consist of one specified nickel silver alloy. Not to contain more than 10% of clean punchings under 1/4 inch.,,,New Segregated Nickel Silver Clippings,Nonferrous Scrap - Red Metals,Malar,Nickel Silver,Clippings
+47,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,To be packed and sold separately,,,Nickel Silver Castings,Nonferrous Scrap - Red Metals,Naggy,Nickel Silver,Castings
+48,IS_PROCESSED_WITH,Pyrometallurgical,Turning brass rods or forging rods,,,Noble,,New ,Turning brass rods or forging rods,,Yellow Brass Rod Ends,Nonferrous Scrap - Red Metals,Pieces not larger than 12�,Yellow brass,Rod ends
+49,IS_PROCESSED_WITH,Pyrometallurgical,Nonferrous Scrap - Red Metals,,,,,It is recommended these materials be sold by analysis.,,,High Grade-Low Lead Brass Bushings,Nonferrous Scrap - Red Metals,Eland,Bronze/Brass,Solids
+50,IS_PROCESSED_WITH,Shredder,,CAR BUMPERS (RAW MATERIAL),,,Non-Ferrous,,,CAR BUMPERS (RAW MATERIAL),,,,40021,ΠΡΟΦΥΛΑΚΤΗΡΕΣ ΑΥΤΟΚΙΝΗΤΩΝ ( ΥΛΗ )
+51,IS_PROCESSED_WITH,Shredder,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Β (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Β (ΥΛΗ ),,,,,,,,,40012,Ferrous
+52,IS_PROCESSED_WITH,Shredder,,ΚΟΥΖΙΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ (ΥΛΗ),ΚΟΥΖΙΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ (ΥΛΗ),,,,,,,,,40003,Ferrous
+53,IS_PROCESSED_WITH,Shredder,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Α (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Α (ΥΛΗ ),,,,,,,,,40011,Ferrous
+54,IS_PROCESSED_WITH,Shredder,,ΑΠΟΡΡΥΠΑΣΜΕΝΑ ΨΥΓΕΙΑ (ΥΛΗ),ΑΠΟΡΡΥΠΑΣΜΕΝΑ ΨΥΓΕΙΑ (ΥΛΗ),,,,,,,,,40240,Ferrous
+55,IS_PROCESSED_WITH,Shredder,,ΗΛΕΚΤΡ.ΣΥΣΚ. ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ ΧΥΔΗΝ (ΥΛΗ),ΗΛΕΚΤΡ.ΣΥΣΚ. ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ ΧΥΔΗΝ (ΥΛΗ),,,,,,,,,40005,Ferrous
+56,IS_PROCESSED_WITH,Shredder,,ΣΚΡΑΠ ΑΥΤΟΚΙΝ. ΓΙΑ ΑΛΕΣΗ (ΥΛΗ),ΣΚΡΑΠ ΑΥΤΟΚΙΝ. ΓΙΑ ΑΛΕΣΗ (ΥΛΗ),,,,,,,,,40002,Ferrous
+57,IS_PROCESSED_WITH,Shredder,,ALUMINUM SCRAP TAINT TABOR(RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP TAINT TABOR(RAW MATERIAL),,,,40016,ΣΚΡΑΠ ΣΚΕΥΗ - ΔΙΑΦΟΡΑ ΒΑΜΜΕΝΑ ΥΛΗ
+58,IS_PROCESSED_WITH,Shredder,,ΥΛΙΚΑ ΜΗΧΑΝΙΚΗΣ ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (ΥΛΗ),ΥΛΙΚΑ ΜΗΧΑΝΙΚΗΣ ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (ΥΛΗ),,,,,,,,,40001,Ferrous
+59,IS_PROCESSED_WITH,Shredder,,ΠΡΟΚΑΤΕΡΓΑΣΜΕΝΑ ΥΛΙΚΑ ΜΗΧΑΝ.ΑΠΟΣΥΝ(ΥΛΗ),ΠΡΟΚΑΤΕΡΓΑΣΜΕΝΑ ΥΛΙΚΑ ΜΗΧΑΝ.ΑΠΟΣΥΝ(ΥΛΗ),,,,,,,,,40008,Ferrous
+60,IS_PROCESSED_WITH,Shredder,,ΘΕΡΜΟΣΙΦΩΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΟΙ (ΥΛΗ),ΘΕΡΜΟΣΙΦΩΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΟΙ (ΥΛΗ),,,,,,,,,40004,Ferrous
+61,IS_PROCESSED_WITH,Shredder,,PLASTIC SCRAP (RAW MATERIAL),,,Non-Ferrous,,,PLASTIC SCRAP (RAW MATERIAL),,,,40020,ΣΚΡΑΠ ΠΛΑΣΤΙΚΟΥ (ΥΛΗ)
+62,IS_PROCESSED_WITH,Shredder,,ALUMINUM SCRAP FOR SHRED.(RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP FOR SHRED.(RAW MATERIAL),,,,40018,ΣΚΡΑΠ ΑΛΟΥΜΙΝΙΟΥ ΠΡΟΣ ΑΛΕΣΗ (ΥΛΗ)
+63,IS_PROCESSED_WITH,Shredder,,ΣΚΡΑΠ ΨΑΛΙΔΙΣΜΕΝΟ ΠΥΚΝ >450 ΚG/M3 (ΥΛΗ),ΣΚΡΑΠ ΨΑΛΙΔΙΣΜΕΝΟ ΠΥΚΝ >450 ΚG/M3 (ΥΛΗ),,,,,,,,,40000,Ferrous
+64,IS_PROCESSED_WITH,Shredder,,ALUMINUM SCRAP MIXED (RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP MIXED (RAW MATERIAL),,,,40017,ΣΚΡΑΠ ΑΛΟΥΜΙΝΙΟΥ ΑΝΑΜΕΙΚΤΟ (ΥΛΗ )
+65,IS_PROCESSED_WITH,Shredder,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Γ (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Γ (ΥΛΗ ),,,,,,,,,40009,Ferrous
+66,IS_PROCESSED_WITH,Shredder,,ΠΛΥΝΤΗΡΙΑ ΑΠΟΡΡΥΠΑΣΜΕΝΑ (ΥΛΗ),ΠΛΥΝΤΗΡΙΑ ΑΠΟΡΡΥΠΑΣΜΕΝΑ (ΥΛΗ),,,,,,,,,40006,Ferrous
+67,IS_PROCESSED_WITH,Magnetic Separation,,ALUMINUM SCRAP TAINT TABOR(RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP TAINT TABOR(RAW MATERIAL),,,,40016,ΣΚΡΑΠ ΣΚΕΥΗ - ΔΙΑΦΟΡΑ ΒΑΜΜΕΝΑ ΥΛΗ
+68,IS_PROCESSED_WITH,Magnetic Separation,,ALUMINUM SCRAP FOR SHRED.(RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP FOR SHRED.(RAW MATERIAL),,,,40018,ΣΚΡΑΠ ΑΛΟΥΜΙΝΙΟΥ ΠΡΟΣ ΑΛΕΣΗ (ΥΛΗ)
+69,IS_PROCESSED_WITH,Magnetic Separation,,ΗΛΕΚΤΡ.ΣΥΣΚ. ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ ΧΥΔΗΝ (ΥΛΗ),ΗΛΕΚΤΡ.ΣΥΣΚ. ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ ΧΥΔΗΝ (ΥΛΗ),,,,,,,,,40005,Ferrous
+70,IS_PROCESSED_WITH,Magnetic Separation,,ΚΟΥΖΙΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ (ΥΛΗ),ΚΟΥΖΙΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ (ΥΛΗ),,,,,,,,,40003,Ferrous
+71,IS_PROCESSED_WITH,Magnetic Separation,,ΣΚΡΑΠ ΑΥΤΟΚΙΝ. ΓΙΑ ΑΛΕΣΗ (ΥΛΗ),ΣΚΡΑΠ ΑΥΤΟΚΙΝ. ΓΙΑ ΑΛΕΣΗ (ΥΛΗ),,,,,,,,,40002,Ferrous
+72,IS_PROCESSED_WITH,Magnetic Separation,,ΥΛΙΚΑ ΜΗΧΑΝΙΚΗΣ ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (ΥΛΗ),ΥΛΙΚΑ ΜΗΧΑΝΙΚΗΣ ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (ΥΛΗ),,,,,,,,,40001,Ferrous
+73,IS_PROCESSED_WITH,Magnetic Separation,,ΠΛΥΝΤΗΡΙΑ ΑΠΟΡΡΥΠΑΣΜΕΝΑ (ΥΛΗ),ΠΛΥΝΤΗΡΙΑ ΑΠΟΡΡΥΠΑΣΜΕΝΑ (ΥΛΗ),,,,,,,,,40006,Ferrous
+74,IS_PROCESSED_WITH,Magnetic Separation,,ΑΠΟΡΡΥΠΑΣΜΕΝΑ ΨΥΓΕΙΑ (ΥΛΗ),ΑΠΟΡΡΥΠΑΣΜΕΝΑ ΨΥΓΕΙΑ (ΥΛΗ),,,,,,,,,40240,Ferrous
+75,IS_PROCESSED_WITH,Magnetic Separation,,PLASTIC SCRAP (RAW MATERIAL),,,Non-Ferrous,,,PLASTIC SCRAP (RAW MATERIAL),,,,40020,ΣΚΡΑΠ ΠΛΑΣΤΙΚΟΥ (ΥΛΗ)
+76,IS_PROCESSED_WITH,Magnetic Separation,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Β (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Β (ΥΛΗ ),,,,,,,,,40012,Ferrous
+77,IS_PROCESSED_WITH,Magnetic Separation,,CAR BUMPERS (RAW MATERIAL),,,Non-Ferrous,,,CAR BUMPERS (RAW MATERIAL),,,,40021,ΠΡΟΦΥΛΑΚΤΗΡΕΣ ΑΥΤΟΚΙΝΗΤΩΝ ( ΥΛΗ )
+78,IS_PROCESSED_WITH,Magnetic Separation,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Α (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Α (ΥΛΗ ),,,,,,,,,40011,Ferrous
+79,IS_PROCESSED_WITH,Magnetic Separation,,ΘΕΡΜΟΣΙΦΩΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΟΙ (ΥΛΗ),ΘΕΡΜΟΣΙΦΩΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΟΙ (ΥΛΗ),,,,,,,,,40004,Ferrous
+80,IS_PROCESSED_WITH,Magnetic Separation,,ALUMINUM SCRAP MIXED (RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP MIXED (RAW MATERIAL),,,,40017,ΣΚΡΑΠ ΑΛΟΥΜΙΝΙΟΥ ΑΝΑΜΕΙΚΤΟ (ΥΛΗ )
+81,IS_PROCESSED_WITH,Magnetic Separation,,ΠΡΟΚΑΤΕΡΓΑΣΜΕΝΑ ΥΛΙΚΑ ΜΗΧΑΝ.ΑΠΟΣΥΝ(ΥΛΗ),ΠΡΟΚΑΤΕΡΓΑΣΜΕΝΑ ΥΛΙΚΑ ΜΗΧΑΝ.ΑΠΟΣΥΝ(ΥΛΗ),,,,,,,,,40008,Ferrous
+82,IS_PROCESSED_WITH,Magnetic Separation,,ΣΚΡΑΠ ΨΑΛΙΔΙΣΜΕΝΟ ΠΥΚΝ >450 ΚG/M3 (ΥΛΗ),ΣΚΡΑΠ ΨΑΛΙΔΙΣΜΕΝΟ ΠΥΚΝ >450 ΚG/M3 (ΥΛΗ),,,,,,,,,40000,Ferrous
+83,IS_PROCESSED_WITH,Magnetic Separation,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Γ (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Γ (ΥΛΗ ),,,,,,,,,40009,Ferrous
+84,PRODUCES,Eddy Current Separation,Radioactive material,,,,,Shall be made up of a combination of the nonferrous metals – aluminum,Radioactive material,,,Nonferrous Scrap - Aluminum,Zorba,Shredded Nonferrous Scrap (predominantly aluminum),Nonferrous Scrap
+85,IS_PROCESSED_WITH,Eddy Current Separation,,ΘΕΡΜΟΣΙΦΩΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΟΙ (ΥΛΗ),ΘΕΡΜΟΣΙΦΩΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΟΙ (ΥΛΗ),,,,,,,,,40004,Ferrous
+86,IS_PROCESSED_WITH,Eddy Current Separation,,ALUMINUM SCRAP TAINT TABOR(RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP TAINT TABOR(RAW MATERIAL),,,,40016,ΣΚΡΑΠ ΣΚΕΥΗ - ΔΙΑΦΟΡΑ ΒΑΜΜΕΝΑ ΥΛΗ
+87,IS_PROCESSED_WITH,Eddy Current Separation,,PLASTIC SCRAP (RAW MATERIAL),,,Non-Ferrous,,,PLASTIC SCRAP (RAW MATERIAL),,,,40020,ΣΚΡΑΠ ΠΛΑΣΤΙΚΟΥ (ΥΛΗ)
+88,IS_PROCESSED_WITH,Eddy Current Separation,,CAR BUMPERS (RAW MATERIAL),,,Non-Ferrous,,,CAR BUMPERS (RAW MATERIAL),,,,40021,ΠΡΟΦΥΛΑΚΤΗΡΕΣ ΑΥΤΟΚΙΝΗΤΩΝ ( ΥΛΗ )
+89,IS_PROCESSED_WITH,Eddy Current Separation,,ΗΛΕΚΤΡ.ΣΥΣΚ. ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ ΧΥΔΗΝ (ΥΛΗ),ΗΛΕΚΤΡ.ΣΥΣΚ. ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ ΧΥΔΗΝ (ΥΛΗ),,,,,,,,,40005,Ferrous
+90,IS_PROCESSED_WITH,Eddy Current Separation,,ΣΚΡΑΠ ΑΥΤΟΚΙΝ. ΓΙΑ ΑΛΕΣΗ (ΥΛΗ),ΣΚΡΑΠ ΑΥΤΟΚΙΝ. ΓΙΑ ΑΛΕΣΗ (ΥΛΗ),,,,,,,,,40002,Ferrous
+91,IS_PROCESSED_WITH,Eddy Current Separation,,ΠΡΟΚΑΤΕΡΓΑΣΜΕΝΑ ΥΛΙΚΑ ΜΗΧΑΝ.ΑΠΟΣΥΝ(ΥΛΗ),ΠΡΟΚΑΤΕΡΓΑΣΜΕΝΑ ΥΛΙΚΑ ΜΗΧΑΝ.ΑΠΟΣΥΝ(ΥΛΗ),,,,,,,,,40008,Ferrous
+92,IS_PROCESSED_WITH,Eddy Current Separation,,ΥΛΙΚΑ ΜΗΧΑΝΙΚΗΣ ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (ΥΛΗ),ΥΛΙΚΑ ΜΗΧΑΝΙΚΗΣ ΑΠΟΣΥΝΑΡΜΟΛΟΓΗΣΗΣ (ΥΛΗ),,,,,,,,,40001,Ferrous
+93,IS_PROCESSED_WITH,Eddy Current Separation,,ALUMINUM SCRAP FOR SHRED.(RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP FOR SHRED.(RAW MATERIAL),,,,40018,ΣΚΡΑΠ ΑΛΟΥΜΙΝΙΟΥ ΠΡΟΣ ΑΛΕΣΗ (ΥΛΗ)
+94,IS_PROCESSED_WITH,Eddy Current Separation,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Β (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Β (ΥΛΗ ),,,,,,,,,40012,Ferrous
+95,IS_PROCESSED_WITH,Eddy Current Separation,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Α (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Α (ΥΛΗ ),,,,,,,,,40011,Ferrous
+96,IS_PROCESSED_WITH,Eddy Current Separation,,ΑΠΟΡΡΥΠΑΣΜΕΝΑ ΨΥΓΕΙΑ (ΥΛΗ),ΑΠΟΡΡΥΠΑΣΜΕΝΑ ΨΥΓΕΙΑ (ΥΛΗ),,,,,,,,,40240,Ferrous
+97,IS_PROCESSED_WITH,Eddy Current Separation,,ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Γ (ΥΛΗ ),ΜΗΧΑΝΕΣ ΑΚΑΘΑΡΙΣΤΕΣ  Γ (ΥΛΗ ),,,,,,,,,40009,Ferrous
+98,IS_PROCESSED_WITH,Eddy Current Separation,,ALUMINUM SCRAP MIXED (RAW MATERIAL),,,Non-Ferrous,,,ALUMINUM SCRAP MIXED (RAW MATERIAL),,,,40017,ΣΚΡΑΠ ΑΛΟΥΜΙΝΙΟΥ ΑΝΑΜΕΙΚΤΟ (ΥΛΗ )
+99,IS_PROCESSED_WITH,Eddy Current Separation,,ΠΛΥΝΤΗΡΙΑ ΑΠΟΡΡΥΠΑΣΜΕΝΑ (ΥΛΗ),ΠΛΥΝΤΗΡΙΑ ΑΠΟΡΡΥΠΑΣΜΕΝΑ (ΥΛΗ),,,,,,,,,40006,Ferrous
+100,IS_PROCESSED_WITH,Eddy Current Separation,,ΚΟΥΖΙΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ (ΥΛΗ),ΚΟΥΖΙΝΕΣ ΑΠΟΡΡΥΠΑΣΜΕΝΕΣ (ΥΛΗ),,,,,,,,,40003,Ferrous
+101,IS_PROCESSED_WITH,Eddy Current Separation,,ΣΚΡΑΠ ΨΑΛΙΔΙΣΜΕΝΟ ΠΥΚΝ >450 ΚG/M3 (ΥΛΗ),ΣΚΡΑΠ ΨΑΛΙΔΙΣΜΕΝΟ ΠΥΚΝ >450 ΚG/M3 (ΥΛΗ),,,,,,,,,40000,Ferrous
+102,PRODUCES,Floatation Separation,Radioactive material,,,,,Shall be made up of a combination of the nonferrous metals - aluminum,Radioactive material,,,Nonferrous Scrap - Aluminum,Zorba,Shredded Nonferrous Scrap (predominantly aluminum),Nonferrous Scrap
+103,PRODUCES,Air Separation,Radioactive material,,,,,Shall be made up of a combination of the nonferrous metals - aluminum,Radioactive material,,,Nonferrous Scrap - Aluminum,Zorba,Shredded Nonferrous Scrap (predominantly aluminum),Nonferrous Scrap
+104,PRODUCES,Screening,Radioactive material,,,,,Shall be made up of a combination of the nonferrous metals - aluminum,Radioactive material,,,Nonferrous Scrap - Aluminum,Zorba,Shredded Nonferrous Scrap (predominantly aluminum),Nonferrous Scrap
