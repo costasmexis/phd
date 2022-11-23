@@ -1,365 +1,365 @@
-,Relationship,full_community_id_source,name_source,Ar_target,AtomicNumber_target,Categorisation_target,Density_target,Dimensions_target,Form_target,Free_of_target,Material_target,MeltingPoint_target,Series_target,Specifications_target,Symbol_target,Title_target,full_community_id_target,name_target
-0,IS_COMPOSED_OF,244,ALUMINUM,,,paper,,Tabloid,New,paper,New,,,Nonferrous Scrap - Aluminum,,Minimum size of 3� (8 cm) in any direction,Aluminum,Lithographic Sheets
-1,IS_COMPOSED_OF,244,ALUMINUM,,,paper,,,Clean. To consist of 1000 and/or 3000 series alloys,paper,Clean Aluminum Lithographic Sheets,,,Nonferrous Scrap - Aluminum,,Tablet,Aluminum ,Lithographic Sheets
-2,IS_COMPOSED_OF,244,ALUMINUM,,,Radioactive material,,,Shall be made up of a combination of the nonferrous metals – aluminum,Radioactive material,,,,Nonferrous Scrap - Aluminum,,Zorba,Shredded Nonferrous Scrap (predominantly aluminum),Nonferrous Scrap
-3,IS_COMPOSED_OF,244,ALUMINUM,,,Radar chaff foil,,,Baled old household aluminum foil and formed foil containers of uncoated 1000,Radar chaff foil,Post Consumer Aluminum Foil,,,Nonferrous Scrap - Aluminum,,Tesla,Aluminum,Foil
-4,IS_COMPOSED_OF,244,ALUMINUM,,,Hair wire,,Tooth,New,Hair wire,Segregated New Aluminum Alloy Clippings and Solids,,,Nonferrous Scrap - Aluminum,,Minimum thickness of .015� (.38 mm),Aluminum,Clippings and Solids
-5,IS_COMPOSED_OF,244,ALUMINUM,,,Sawings,,,New,Sawings,null,,,Nonferrous Scrap - Aluminum,,Tread,Aluminum,Castings
-6,IS_COMPOSED_OF,244,ALUMINUM,,,Hair wire,,Tough,New,Hair wire,Mixed New Aluminum Alloy Clippings and Solids,,,Nonferrous Scrap - Aluminum,,Minimum thickness of .015� (.38 mm),Aluminum,Clippings and Solids
-7,IS_COMPOSED_OF,244,ALUMINUM,,,Iron,,,Old extruded aluminum of one alloy,Iron,Aluminum Extrusions Dealer Grade,,,Nonferrous Scrap - Aluminum,,Tutu,Aluminum,Extrusions
-8,IS_COMPOSED_OF,244,ALUMINUM,,,Other alloys of aluminum,,,Material to consist of new production and old/used 6063 extrusions that may contain up to (but not exceed) 10 percent painted extrusions and 10 percent 6061 alloy extrusions.,Other alloys of aluminum,Aluminum Extrusions 10/10,,,Nonferrous Scrap - Aluminum,,Toto,Aluminum,Extrusions
-9,IS_COMPOSED_OF,244,ALUMINUM,,,Lids with sealers,,,Low copper,Lids with sealers,New Aluminum Can Stock,,,Nonferrous Scrap - Aluminum,,Take,Aluminum ,Cans and clippings 
-10,IS_COMPOSED_OF,244,ALUMINUM,,,Corrosion,,,Aluminum scrap which has been sweated or melted into a form or shape such as an ingot,Corrosion,Sweated Aluminum,,,Nonferrous Scrap - Aluminum,,Throb,Aluminum,Aluminum Scrap 
-11,IS_COMPOSED_OF,244,ALUMINUM,,,Anodized foil,,,Clean,Anodized foil,New Aluminum Foil,,,Nonferrous Scrap - Aluminum,,Terse,Aluminum,Foil
-12,IS_COMPOSED_OF,244,ALUMINUM,,,Hair wire,,,New,Hair wire,New Pure Aluminum Wire and Cable,,,Nonferrous Scrap - Aluminum,,Talon,Aluminum,Wire and Cable 
-13,IS_COMPOSED_OF,244,ALUMINUM,,,Plastic coating,,,Clean,Plastic coating,Painted Siding,,,Nonferrous Scrap - Aluminum,,Tale,Aluminum,Siding scrap 
-14,IS_COMPOSED_OF,244,ALUMINUM,,,Other wires and cables unless mutually agreed upon,,,Aluminum Conductor Steel Reinforced (ACSR) wire is a combination of steel and aluminum wire,Other wires and cables unless mutually agreed upon,ACSR,,,Nonferrous Scrap - Aluminum,,Trill,Aluminum,Wire
-15,IS_COMPOSED_OF,244,ALUMINUM,,,Screening,,,Clean,Screening,E.C. Aluminum Nodules,,,Nonferrous Scrap - Aluminum,,Tall,Aluminum,E.C. 
-16,IS_COMPOSED_OF,244,ALUMINUM,,,All inserts,,,Clean,All inserts,Aluminum Auto Truck Wheels,,,Nonferrous Scrap - Aluminum,,Troma,Aluminum,Wheels
-17,IS_COMPOSED_OF,244,ALUMINUM,,,Excessively oxidized material,,,The material as received must be dry and not to contain more than 2% free zinc,Excessively oxidized material,Fragmentizer Aircraft Aluminum Scrap (2000 and 7000 series),,,Nonferrous Scrap - Aluminum,,Twirl,Aluminum,Aircraft Scrap
-18,IS_COMPOSED_OF,244,ALUMINUM,,,Hair wire,,,New,Hair wire,New Mixed Aluminum Wire and Cable,,,Nonferrous Scrap - Aluminum,,Tann,Aluminum,Wire and Cable 
-19,IS_COMPOSED_OF,244,ALUMINUM,,,Hair wire,,,Old,Hair wire,Old Pure Aluminum Wire and Cable,,,Nonferrous Scrap - Aluminum,,Taste,Aluminum,Wire and Cable 
-20,IS_COMPOSED_OF,244,ALUMINUM,,,Any foreign contamination,,,Consists of one alloy (typically 6063). Material may contain �butt ends� from the extrusion process. Anodized material is acceptable.,Any foreign contamination,New Production Aluminum Extrusions,,,Nonferrous Scrap - Aluminum,,Tata,Aluminum,Extrusions
-21,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2218,2000
-22,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2397,2000
-23,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6061,6000
-24,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1230,1000
-25,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2080,2000
-26,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5019,5000
-27,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8009,8000
-28,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5024,5000
-29,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1100,1000
-30,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5056,5000
-31,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2198,2000
-32,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5154,5000
-33,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7085,7000
-34,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6101,6000
-35,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8019,8000
-36,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6113,6000
-37,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6009,6000
-38,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7010,7000
-39,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7150,7000
-40,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2618,2000
-41,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8176,8000
-42,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2095,2000
-43,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2004,2000
-44,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5454,5000
-45,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8014,8000
-46,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8006,8000
-47,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7050,7000
-48,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2324,2000
-49,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2091,2000
-50,CONTAINS,244,ALUMINUM,,,,,,,,,,#VALUE!,,,,6063A,#VALUE!
-51,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8090,8000
-52,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3103,3000
-53,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6463,6000
-54,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6060,6000
-55,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2097,2000
-56,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8030,8000
-57,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8011,8000
-58,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7075,7000
-59,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7079,7000
-60,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7034,7000
-61,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3004,3000
-62,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2519,2000
-63,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6151,6000
-64,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4047,4000
-65,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1050,1000
-66,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1145,1000
-67,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7072,7000
-68,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6070,6000
-69,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6063,6000
-70,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3003,3000
-71,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7475,7000
-72,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1070,1000
-73,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7093,7000
-74,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6081,6000
-75,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3102,3000
-76,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7065,7000
-77,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5026,5000
-78,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5557,5000
-79,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2098,2000
-80,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6013,6000
-81,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7039,7000
-82,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2036,2000
-83,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7068,7000
-84,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6066,6000
-85,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5182,5000
-86,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6010,6000
-87,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2024,2000
-88,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2319,2000
-89,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6951,6000
-90,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4032,4000
-91,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6082,6000
-92,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2029,2000
-93,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7129,7000
-94,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4043,4000
-95,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2297,2000
-96,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5083,5000
-97,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7116,7000
-98,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5010,5000
-99,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5652,5000
-100,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2011,2000
-101,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1060,1000
-102,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5754,5000
-103,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3303,3000
-104,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2224,2000
-105,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5050,5000
-106,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6105,6000
-107,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5052,5000
-108,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5086,5000
-109,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6262,6000
-110,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6022,6000
-111,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5456,5000
-112,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7178,7000
-113,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2124,2000
-114,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1350,1000
-115,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3105,3000
-116,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7049,7000
-117,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4007,4000
-118,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6351,6000
-119,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6201,6000
-120,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4006,4000
-121,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2048,2000
-122,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2197,2000
-123,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3203,3000
-124,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6005,6000
-125,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5254,5000
-126,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2196,2000
-127,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6162,6000
-128,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5059,5000
-129,CONTAINS,244,ALUMINUM,,,,,,,,,,3000,,,,3005,3000
-130,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8025,8000
-131,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8091,8000
-132,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2099,2000
-133,CONTAINS,244,ALUMINUM,,,,,,,,,,#VALUE!,,,,646g,#VALUE!
-134,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5252,5000
-135,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7005,7000
-136,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1199,1000
-137,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2524,2000
-138,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7022,7000
-139,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7175,7000
-140,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2195,2000
-141,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5657,5000
-142,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5005,5000
-143,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2017,2000
-144,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6065,6000
-145,CONTAINS,244,ALUMINUM,,,,,,,,,,6000,,,,6205,6000
-146,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2020,2000
-147,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7255,7000
-148,CONTAINS,244,ALUMINUM,,,,,,,,,,1000,,,,1370,1000
-149,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2014,2000
-150,CONTAINS,244,ALUMINUM,,,,,,,,,,7000,,,,7055,7000
-151,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2090,2000
-152,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4543,4000
-153,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2094,2000
-154,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5356,5000
-155,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2055,2000
-156,CONTAINS,244,ALUMINUM,,,,,,,,,,8000,,,,8093,8000
-157,CONTAINS,244,ALUMINUM,,,,,,,,,,4000,,,,4015,4000
-158,CONTAINS,244,ALUMINUM,,,,,,,,,,5000,,,,5457,5000
-159,CONTAINS,244,ALUMINUM,,,,,,,,,,2000,,,,2219,2000
-160,IS_COMPOSED_OF,245,MALLEABLE IRON,,,Cast iron and steel parts and other foreign material,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,Cast iron and steel parts and other foreign material,,,,,,264,Malleable,Malleable parts of automobiles
-161,IS_COMPOSED_OF,245,MALLEABLE IRON,,,Steel turnings,,,Containing not more than 1 percent oil,Steel turnings,No. 1 Chemical Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,267,Cast or malleable iron ,Borings and drillings 
-162,IS_COMPOSED_OF,245,MALLEABLE IRON,,,Steel turnings,,,Nea clean,Steel turnings,No. 2 Chemical Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,271,Cast or malleable iron ,Borings and drillings 
-163,IS_COMPOSED_OF,245,MALLEABLE IRON,,,Steel turnings,,,Clean ,Steel turnings,Malleable Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,270,Malleable iron ,Borings and drillings 
-164,IS_COMPOSED_OF,245,MALLEABLE IRON,,,Steel turnings,,,Clean,Steel turnings,Iron Borings,,,Ferrous Scrap ,,223,Cast Iron or malleable iron ,Borings and drillings 
-165,IS_COMPOSED_OF,246,ALUMINUM BRASS,,,Nickel alloy and corroded material,,,Clean. May be plated or unplated,Nickel alloy and corroded material,Aluminum Brass Condenser Tubes,,,Nonferrous Scrap - Red Metals,,Pallu,Aluminum Brass,Condenser tubes
-166,IS_COMPOSED_OF,247,BRASS,,,Plated and soldered materials or pipes with cast brass connections,,,To be sound,Plated and soldered materials or pipes with cast brass connections,Brass Pipe,,,Nonferrous Scrap - Red Metals,,Melon,Brass,Pipe 
-167,IS_COMPOSED_OF,247,BRASS,,,bullets,,,Clean muffled. For material to be exported from the United States,bullets,Brass Small Arms and Rifle Shells,,,Nonferrous Scrap - Red Metals,,Lamb,Brass,Rifle shells
-168,IS_COMPOSED_OF,247,BRASS,,,bullets,,,Clean. For material to be exported from the United States,bullets,Brass Small Arms and Rifle Shells,,,Nonferrous Scrap - Red Metals,,Lake,Brass,Rifle shells
-169,IS_COMPOSED_OF,247,BRASS,,,primers and any other foreign material,,,Clean. For material to be exported from the United States,primers and any other foreign material,Brass Shell Cases Without Primers,,,Nonferrous Scrap - Red Metals,,Lace,Brass,Fired 70/30 shell cases
-170,IS_COMPOSED_OF,247,BRASS,,,Nonferrous Scrap - Red Metals,,,Copper content of not less than 75%,,Machinery or Hard Brass Borings,,,Nonferrous Scrap - Red Metals,,Erin,Brass,Borings
-171,IS_COMPOSED_OF,247,BRASS,,,lined and unlined standard red car boxes.,,,Copper content of not less than 75%,lined and unlined standard red car boxes.,Machinery or Hard Brass Solids,,,Nonferrous Scrap - Red Metals,,Engel,Brass,Solids
-172,IS_COMPOSED_OF,248,BRONZE,,,Nonferrous Scrap - Red Metals,,,It is recommended that these materials be sold on sample or analysis.,,High Lead Bronze Solids and Borings,,,Nonferrous Scrap - Red Metals,,Elias,Bronze,Solids and Borings
-173,IS_COMPOSED_OF,249,COPPER,,,Nonferrous Scrap - Red Metals,,No. 1 Copper Wire,Bare,,Wire gauge subject to agreement between buyer and seller,,,Nonferrous Scrap - Red Metals,,Berry,Copper ,Wire 
-174,IS_COMPOSED_OF,249,COPPER,,,Nonferrous Scrap - Red Metals,,Druid,Uncoated,,Insulated Copper Wire Scrap,,,Nonferrous Scrap - Red Metals,,not smaller than No. 16 B & S wire gauge (unless smaller wire gauge is mutually agreed upon),Copper,Wire
-175,IS_COMPOSED_OF,249,COPPER,,,Nonferrous Scrap - Red Metals,,,with various types of insulation. To be sold on a sample or recovery basis,,Insulated Copper Wire Scrap,,,Nonferrous Scrap - Red Metals,,Droid,Copper ,Wire 
-176,IS_COMPOSED_OF,249,COPPER,,,Nonferrous Scrap - Red Metals,,,Unalloyed,,No. 2 Copper Wire Nodules,,,Nonferrous Scrap - Red Metals,,Cobra,Copper ,Wire scrap nodules
-177,IS_COMPOSED_OF,249,COPPER,,,Tin,,Clove,Uncoated,Tin,No. 1 Copper Wire Nodules,,,Nonferrous Scrap - Red Metals,,Gauge smaller than No. 16 B & S wire subject to agreement between buyer and seller,[Copper ,Wire scrap nodules
-178,IS_COMPOSED_OF,249,COPPER,,,excessively leaded,,,Unalloyed,excessively leaded,No. 2 Copper Solids and Tubing,,,Nonferrous Scrap - Red Metals,,Cliff,Copper ,Miscellaneous Scrap
-179,IS_COMPOSED_OF,249,COPPER,,,Nonferrous Scrap - Red Metals,,,clean,,No. 1 Heavy Copper Solids and Tubing,,,Nonferrous Scrap - Red Metals,,Candy,Copper ,Clippings
-180,IS_COMPOSED_OF,249,COPPER,,,Excessively leaded,,,Unalloyed,Excessively leaded,No. 2 Copper Wire,,,Nonferrous Scrap - Red Metals,,Birch,Copper ,Miscellaneous
-181,IS_COMPOSED_OF,249,COPPER,,,Brittle Burnt Wire,,No. 1 Copper Wire,Clean,Brittle Burnt Wire,Wire gauge subject to agreement between buyer and seller,,,Nonferrous Scrap - Red Metals,,Barley,Copper ,Wire and Cable 
-182,CONTAINS,250,LEADED BRASS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-183,CONTAINS,250,LEADED BRASS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-184,CONTAINS,250,LEADED BRASS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-185,CONTAINS,250,LEADED BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-186,IS_COMPOSED_OF,250,LEADED BRASS,,,Nonferrous Scrap - Red Metals,,,Alloyed with copper,,Leaded Brass Scrap Rod Ends and Forgings,,,Nonferrous Scrap - Red Metals,,Niche,Leaded Brass,Rod ends and forgings
-187,IS_COMPOSED_OF,250,LEADED BRASS,,,Nonferrous Scrap - Red Metals,,,Alloyed with copper,,Leaded Brass Scrap Turnings,,,Nonferrous Scrap - Red Metals,,Nascent,Leaded Brass,Borings and turnings
-188,IS_COMPOSED_OF,251,LEAD-FREE BISMUTH BRASS,,,Nonferrous Scrap - Red Metals,,,Alloyed with copper,,Lead-Free Bismuth Brass Turnings,,,Nonferrous Scrap - Red Metals,,Ecstatic,Brass,Scrap borings and turnings
-189,IS_COMPOSED_OF,251,LEAD-FREE BISMUTH BRASS,,,leaded brass attachments and have less than 0.2% alloyed lead or as agreed between buyer and seller.,,,Alloyed with copper,leaded brass attachments and have less than 0.2% alloyed lead or as agreed between buyer and seller.,Lead-Free Bismuth Brass Solids,,,Nonferrous Scrap - Red Metals,,Ebulent,Brass,Scrap castings
-190,IS_COMPOSED_OF,252,MANGANESE BRONZE,,,Aluminum bronze and silicon bronze.,,,Copper content of not less than 55%,Aluminum bronze and silicon bronze.,Manganese Bronze Solids,,,Nonferrous Scrap - Red Metals,,Parch,Manganese bronze,Solids 
-191,IS_COMPOSED_OF,253,MUNTZ METAL,,,Nickel alloy,,,Clean,Nickel alloy,Muntz Metal Tubes,,,Nonferrous Scrap - Red Metals,,Palms,Muntz metal ,Tubes
-192,IS_COMPOSED_OF,254,NICKEL SILVER,,,Nonferrous Scrap - Red Metals,,,To be sold by sample or analysis,,null,,,Nonferrous Scrap - Red Metals,,Niece,Nickel Silver,Turnings
-193,IS_COMPOSED_OF,254,NICKEL SILVER,,,Nonferrous Scrap - Red Metals,,,To be packed and sold separately,,Nickel Silver Castings,,,Nonferrous Scrap - Red Metals,,Naggy,Nickel Silver,Castings
-194,IS_COMPOSED_OF,254,NICKEL SILVER,,,Foreign substances,,,Old. Soldered or unsoldered. Must not be trimmed seams alone.,Foreign substances,Old Nickel Silver,,,Nonferrous Scrap - Red Metals,,Malic,Nickel Silver,Sheet
-195,IS_COMPOSED_OF,254,NICKEL SILVER,,,Nonferrous Scrap - Red Metals,,,Shall consist of one specified nickel silver alloy. Not to contain more than 10% of clean punchings under 1/4 inch.,,New Segregated Nickel Silver Clippings,,,Nonferrous Scrap - Red Metals,,Malar,Nickel Silver,Clippings
-196,IS_COMPOSED_OF,254,NICKEL SILVER,,,Chrome or any other plating material,,,New,Chrome or any other plating material,New Nickel Silver Clippings and Solids,,,Nonferrous Scrap - Red Metals,,Major,Nickel Silver,Clippings
-197,IS_COMPOSED_OF,254,NICKEL SILVER,,,chrome or any other plating material,,,One or more nickel silver alloys the range of nickel content to be specified. Leaded nickel silver clippings should be packed and sold separately. Not to contain more than 10% of clean punchings under 1/4 inch,chrome or any other plating material,Mixed New Nickel Silver Clippings,,,Nonferrous Scrap - Red Metals,,Maize,Nickel Silver,Clippings
-198,CONTAINS,255,RED BRASS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-199,CONTAINS,255,RED BRASS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-200,CONTAINS,255,RED BRASS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-201,CONTAINS,255,RED BRASS,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-202,CONTAINS,255,RED BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-203,IS_COMPOSED_OF,255,RED BRASS,,,Nonferrous Scrap - Red Metals,,,Should be sold subject to sample or analysis.,,Red Brass Composition Turnings,,,Nonferrous Scrap - Red Metals,,Enerv,Red Brass,Turnings
-204,IS_COMPOSED_OF,255,RED BRASS,,,iron-backed bearings,,,from automobiles and other machinery,iron-backed bearings,null,,,Nonferrous Scrap - Red Metals,,Elder,Brass,Bushings and bearings
-205,IS_COMPOSED_OF,255,RED BRASS,,,semi-red brass castings (78% to 81% copper); railroad car boxes and other similar high-lead alloys; cocks and faucets; closed water meters; gates; pot pieces; ingots and burned brass; aluminum,,Ebony,Made of copper,semi-red brass castings (78% to 81% copper); railroad car boxes and other similar high-lead alloys; cocks and faucets; closed water meters; gates; pot pieces; ingots and burned brass; aluminum,Composition or Red Brass,,,Nonferrous Scrap - Red Metals,,No piece to measure more than 12� over any one part or weigh over 100 lbs.,Red Brass,Valves
-206,CONTAINS,256,YELLOW BRASS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-207,CONTAINS,256,YELLOW BRASS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-208,CONTAINS,256,YELLOW BRASS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-209,CONTAINS,256,YELLOW BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-210,IS_COMPOSED_OF,256,YELLOW BRASS,,,Turning brass rods or forging rods,,Noble,New ,Turning brass rods or forging rods,Yellow Brass Rod Ends,,,Nonferrous Scrap - Red Metals,,Pieces not larger than 12�,Yellow brass,Rod ends
-211,IS_COMPOSED_OF,256,YELLOW BRASS,,,Aluminum,,,Not to contain over 3% free iron,Aluminum,Yellow Brass Rod Turnings,,,Nonferrous Scrap - Red Metals,,Night,Yellow brass,Rod turnings (strictly)
-212,IS_COMPOSED_OF,256,YELLOW BRASS,,,Aluminum,,,Not to contain over 3% of free iron,Aluminum,Yellow Brass Turnings,,,Nonferrous Scrap - Red Metals,,Nomad,Yellow brass,Turnings
-213,IS_COMPOSED_OF,256,YELLOW BRASS,,,iron,,,Clean,iron,Yellow Brass Primer,,,Nonferrous Scrap - Red Metals,,Lark,Yellow Brass,Primers
-214,IS_COMPOSED_OF,256,YELLOW BRASS,,,from foreign substances,,,new unleaded yellow brass sheet or plate,from foreign substances,New Brass Clipings,,,Nonferrous Scrap - Red Metals,,Label,Brass,Clippings
-215,IS_COMPOSED_OF,256,YELLOW BRASS,,,brass forgings,,Ivory,not to contain more than 15% nickel plated material,brass forgings,,,,Nonferrous Scrap - Red Metals,,no piece to measure more than 12 inches over any one part,Yellow Brass Castings,Castings in crucible shape 
-216,IS_COMPOSED_OF,256,YELLOW BRASS,,,Manganese-bronze,,,Nonferrous Scrap - Red Metals,Manganese-bronze,Yellow Brass Scrap,,,,,Honey,Yellow brass,Mixed Solids
-217,CONTAINS,272,LEADED RED BRASS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-218,CONTAINS,272,LEADED RED BRASS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-219,CONTAINS,272,LEADED RED BRASS,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-220,CONTAINS,272,LEADED RED BRASS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-221,CONTAINS,272,LEADED RED BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-222,CONTAINS,273,LEADED SEMI-RED BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-223,CONTAINS,273,LEADED SEMI-RED BRASS,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-224,CONTAINS,273,LEADED SEMI-RED BRASS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-225,CONTAINS,273,LEADED SEMI-RED BRASS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-226,CONTAINS,273,LEADED SEMI-RED BRASS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-227,CONTAINS,274,HEAVY BRASS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-228,CONTAINS,274,HEAVY BRASS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-229,CONTAINS,274,HEAVY BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-230,CONTAINS,274,HEAVY BRASS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-231,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-232,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-233,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-234,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-235,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-236,CONTAINS,276,COPPER/NICKEL ALLOYS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-237,CONTAINS,276,COPPER/NICKEL ALLOYS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-238,CONTAINS,276,COPPER/NICKEL ALLOYS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-239,CONTAINS,277,HIGH LEADED TIN BRONZES,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-240,CONTAINS,277,HIGH LEADED TIN BRONZES,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-241,CONTAINS,277,HIGH LEADED TIN BRONZES,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-242,CONTAINS,277,HIGH LEADED TIN BRONZES,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-243,CONTAINS,277,HIGH LEADED TIN BRONZES,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-244,CONTAINS,278,TIN BRASSES,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-245,CONTAINS,278,TIN BRASSES,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-246,CONTAINS,278,TIN BRASSES,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-247,CONTAINS,278,TIN BRASSES,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-248,CONTAINS,278,TIN BRASSES,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-249,CONTAINS,279,TIN BBRONZE,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-250,CONTAINS,279,TIN BBRONZE,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-251,CONTAINS,279,TIN BBRONZE,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-252,CONTAINS,279,TIN BBRONZE,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-253,CONTAINS,280,PHOSPHOR BRONZE,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-254,CONTAINS,280,PHOSPHOR BRONZE,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-255,CONTAINS,280,PHOSPHOR BRONZE,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-256,CONTAINS,280,PHOSPHOR BRONZE,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-257,CONTAINS,281,HIGH COPPERS,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-258,CONTAINS,281,HIGH COPPERS,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-259,CONTAINS,281,HIGH COPPERS,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-260,CONTAINS,281,HIGH COPPERS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-261,CONTAINS,281,HIGH COPPERS,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-262,CONTAINS,282,MANGANES BRONZE,419.5,328,,30,,,,,419.5,,,65.38,,ZINC,Zn
-263,CONTAINS,282,MANGANES BRONZE,231.9,326,,50,,,,,231.9,,,118.71,,TIN,Sn
-264,CONTAINS,282,MANGANES BRONZE,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-265,CONTAINS,282,MANGANES BRONZE,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-266,CONTAINS,282,MANGANES BRONZE,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-267,CONTAINS,283,ALUMINUM BRONZE,660.3,322,,13,,,,,660.3,,,26.981539,,ALUMINUM,Al
-268,CONTAINS,283,ALUMINUM BRONZE,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-269,CONTAINS,283,ALUMINUM BRONZE,327.5,329,,82,,,,,327.5,,,207.2,,LEAD,Pb
-270,CONTAINS,284,SILICON BORNZE,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-271,CONTAINS,285,SILICON BRASS,1085,319,,29,,,,,1085,,,63.546,,COPPER,Cu
-272,IS_COMPOSED_OF,695,ZINC,,,Corrosion,,,New or unused,Corrosion,New Zinc Die Cast Scrap,,,Nonferrous Scrap - Zinc,,Scabs,Zinc ,Die castings
-273,IS_COMPOSED_OF,695,ZINC,,,Nonferrous Scrap - Zinc,,,Material to contain about 55% zinc-bearing scrap. Other nonferrous metals such as aluminum,,,,,Nonferrous Scrap - Zinc,,Scroll,Unsorted Zing Die Cast Scrap,Cast scrap produced from automobile fragmentizers
-274,IS_COMPOSED_OF,695,ZINC,,,Nonferrous Scrap - Zinc,,Scrub,Consists only of galvanizers unsweated zinc dross in slab form from hot dip galvanizing (Batch Process) with a minimum zinc content of 92% and shall be free of skimmings and tramp iron. Material from continuous galvanizing operation is not acceptable.,,,,,Nonferrous Scrap - Zinc,,Broken pieces under 2� in diameter shall not exceed 10% of the weight of each shipment. Slabs shall not weigh over 100 pounds each.,Hot Dip Galvanizers Slab Zinc Dross (Batch Process),Dross in slab
-275,IS_COMPOSED_OF,695,ZINC,,,Skimmings,,Seal,Unsweated zinc dross removed from the top of a continuous line galvanizing bath,Skimmings,,,,Nonferrous Scrap - Zinc,,Not weighing in excess of 100 pounds each slab. Broken pieces under 2� in diameter shall not exceed 10% of the weight of each shipment.,Continuous Line Galvanizing Slab Zinc Top Dross,Dross
-276,IS_COMPOSED_OF,695,ZINC,,,Material to be free from drosses and to contain a minimum zinc content of 90%,,,Melted zinc base die cast materials,Material to be free from drosses and to contain a minimum zinc content of 90%,,,,Nonferrous Scrap - Zinc,,Scull,Zinc Die Cast Slabs or Pigs,Die cast materials in slabs or pigs
-277,IS_COMPOSED_OF,695,ZINC,,,Corrosion or oxidation,,Shelf,Metal skimmed from the top of pot of molten zinc die cast metal. Must be unsweated,Corrosion or oxidation,,,,Nonferrous Scrap - Zinc,,Weighing not over 75 pounds each mold or mound.,Prime Zinc Die Cast Dross,Skimmings
-278,IS_COMPOSED_OF,695,ZINC,,,Dirt,,,Clean.To contain a maximum of 5% unmeltables such as free iron,Dirt,,,,Nonferrous Scrap - Zinc,,Scribe,Crushed Clean Sorted Fragmentizer Die Cast Scrap,Fragmentizer Die Cast Scrap
-279,IS_COMPOSED_OF,695,ZINC,,,Corrosion ,,,New pure zinc. To contain no foreign material or attachments.,Corrosion ,,,,Nonferrous Scrap - Zinc,,Screen,New Zinc Clippings,Sheets or stampings 
-280,IS_COMPOSED_OF,695,ZINC,,,Nonferrous Scrap - Zinc,,,Clean,,,,,Nonferrous Scrap - Zinc,,Score,Old Zinc Scrap,Zinc scrap (such as sheets
-281,IS_COMPOSED_OF,695,ZINC,,,Soldered material,,,Clean,Soldered material,Zinc Die Cast Automotive Grilles,,,Nonferrous Scrap - Zinc,,Scoot,Zinc ,Die castings automotive grilles 
-282,IS_COMPOSED_OF,695,ZINC,,,Skimmings,,Seam,Unsweated zinc dross removed from the top of a continuous line galvanizing bath,Skimmings,,,,Nonferrous Scrap - Zinc,,Not weighing in excess of 100 pounds each slab. Broken pieces under 2� in diameter shall not exceed 10% of the weight of each shipment.,Continuous Line Galvanizing Slab Zinc Bottom Dross,Dross
-283,IS_COMPOSED_OF,695,ZINC,,,Borings,,,Miscellaneous old zinc base die castings,Borings,Old Zinc Die Cast Scrap,,,Nonferrous Scrap - Zinc,,Saves,Zinc,Die castings
-284,IS_COMPOSED_OF,696,WROUGHT IRON,,,Iron borings,,,Clean. May not include badly rusted or corroded stock.,Iron borings,Machine Shop Turnings and Iron Borings,,,Ferrous Scrap ,,220,Wrought Iron or steel,Trunings and borings (iron)
-285,IS_COMPOSED_OF,696,WROUGHT IRON,,,Iron borings,,,Clean. May not include badly rusted or corroded stock.,Iron borings,Machine Shop Turnings,,,Ferrous Scrap ,,219,Wrought Iron or steel,Turnings
-286,IS_COMPOSED_OF,696,WROUGHT IRON,,,Springy,,,Clean. May include any such material whether resulting from crushing,Springy,,,,Ferrous Scrap ,,222,Shoveling Turnings and Iron Borings,Turnings
-287,IS_COMPOSED_OF,696,WROUGHT IRON,,,Springy,,,Clean. May include any such material whether resulting from crushing,Springy,,,,Ferrous Scrap ,,221,Shoveling Turnings,Turnings
-288,IS_COMPOSED_OF,696,WROUGHT IRON,,,All metal-coated material,,217,,All metal-coated material,Bundled No. 1 Steel,,,Ferrous Scrap ,,1/8 inch or over in thickness and weighing not less than 75 pounds per cubic foot,Wrought iron and/or steel ,Compressed to charging box size
-289,IS_COMPOSED_OF,696,WROUGHT IRON,,,All coated material,,218,,All coated material,Bundled No. 2 Steel,,,Ferrous Scrap ,,1/8 inch and over in thickness and weighing not less than 75 pounds per cubic foot.,Wrought iron and/or steel ,Black or galvanized. Compressed to charging box size. Auto body and fender stock
-290,IS_COMPOSED_OF,696,WROUGHT IRON,,,Sheet iron or thin gauged material,,205,,Sheet iron or thin gauged material,No. 2 Heavy Melting Steel 3 feet x 18 inches,,,Ferrous Scrap ,,Maximum size 36 x18 inches,Wrougt iron and steel ,Black and galvanized. May include all automobile scrap properly prepared.
-291,IS_COMPOSED_OF,696,WROUGHT IRON,,,Ferrous Scrap ,,200,,,No. 1 Heavy Melting Steel,,,Ferrous Scrap ,,1/4 inch and over in thickness. Individual pieces not over 60 x 24 inches (charging box size),Wrougt iron and/or steel,Prepared in a manner to insure compact charging.
-292,IS_COMPOSED_OF,696,WROUGHT IRON,,,Ferrous Scrap ,,203,,,No. 2 Heavy Melting Steel,,,Ferrous Scrap ,,1/8 inch and over in thickness,Wrougt iron and steel ,Black and galvanized. Charging box size to include material not suitable as No. 1 heavy melting steel. Prepared in a manner to insure compact charging.
-293,IS_COMPOSED_OF,696,WROUGHT IRON,,,Ferrous Scrap ,,201,,,No. 1 Heavy Melting Steel 3 feet x 18 inches,,,Ferrous Scrap ,,1/4 inch and over in thickness. Individual pieces not over 36 x 18 inches (charging box size),Wrougt iron and/or steel,Prepared in a manner to insure compact charging.
-294,IS_COMPOSED_OF,696,WROUGHT IRON,,,Sheet iron or thin gauged material,,206,,Sheet iron or thin gauged material,No. 2 Heavy Melting Steel 5 feet x 18 inches,,,Ferrous Scrap ,,Maximum size 60 x18 inches,Wrougt iron and steel ,Black and galvanized. May include all automobile scrap properly prepared.
-295,IS_COMPOSED_OF,696,WROUGHT IRON,,,Ferrous Scrap ,,204,,,No. 2 Heavy Melting Steel,,,Ferrous Scrap ,,Maximum size 36 x18 inches,Wrougt iron and steel ,Black and galvanized. May include all automobile scrap properly prepared.
-296,IS_COMPOSED_OF,696,WROUGHT IRON,,,Ferrous Scrap ,,202,,,No. 1 Heavy Melting Steel 5 feet x 18 inches,,,Ferrous Scrap ,,1/4 inch and over in thickness. Individual pieces not over 60 x 18 inches (charging box size),Wrougt iron and/or steel,Prepared in a manner to insure compact charging.
-297,IS_COMPOSED_OF,697,CAST IRON,,,Steel and nonferrous material,,,hydraulically compressed into a cohesive solid,Steel and nonferrous material,Briquetted Cast Iron Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,269,Cast iron ,Boring briquettes
-298,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,,Heated,,Briquetted Cast Iron Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,268,Cast iron ,Borings
-299,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,,Unbroken ,,Unbroken Ingot Molds and Stools,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,266,Cast iron ,Ingot molds and stools
-300,IS_COMPOSED_OF,697,CAST IRON,,,Malleable and steel parts,,,,Malleable and steel parts,,,,,,258,Stove Plate,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades
-301,IS_COMPOSED_OF,697,CAST IRON,,,Steel turnings,,,Nea clean,Steel turnings,No. 2 Chemical Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,271,Cast or malleable iron ,Borings and drillings 
-302,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,,May include sash weights or window weights.,,Burnt Iron,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,256,Burnt cast iron ,Stove parts
-303,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,Hammer Block or Bases,,,,,255,Cast iron ,Hammer block or bases
-304,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,265,Broken ,,Broken Ingot Molds and Stools,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,Maximum size 2 feet x 3 feet x 5 feet,Cast iron ,Ingot molds and stools
-305,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,257,,,Mixed Cast,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,Dimensions not over 24 inches x 30 inches and no piece over 150 pounds in weight,Cast iron ,May include all grades of cast iron except burnt iron.
-306,IS_COMPOSED_OF,697,CAST IRON,,,Steel turnings,,,Containing not more than 1 percent oil,Steel turnings,No. 1 Chemical Borings,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades,,267,Cast or malleable iron ,Borings and drillings 
-307,IS_COMPOSED_OF,697,CAST IRON,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,254,,,Heavy Breakable Cast,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,Charging box size or weighing more than 500 pounds,Cast iron ,May include cylinders and driving wheel centers. May include steel which does not exceed 10 percent of the casting by weight
-308,IS_COMPOSED_OF,697,CAST IRON,,,Stove plate,,252,Clean ,Stove plate,Cupola Cast,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,Cupola size,Cast iron ,Columns
-309,IS_COMPOSED_OF,697,CAST IRON,,,Burnt iron,,253,,Burnt iron,Charging Box Cast,,,Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades,,Not over 60 inches in length or 30 inches in width,Cast iron ,Clean
-310,IS_COMPOSED_OF,697,CAST IRON,,,Steel turnings,,,Clean,Steel turnings,Iron Borings,,,Ferrous Scrap ,,223,Cast Iron or malleable iron ,Borings and drillings 
-311,IS_COMPOSED_OF,698,TIN,,,Ferrous Scrap ,,215,Compressed to charging box size. Processed through a recognized garbage incinerator. ,,Incinerator Bundles,,,Ferrous Scrap ,,Weighing not less than 75 pounds per cubic foot,Tin,Cans
-312,IS_COMPOSED_OF,699,TERNE,,,Ferrous Scrap ,,216,Compressed or hand bundled,,Terne Plate Bundles,,,Ferrous Scrap ,,weighing not less than 75 pounds per cubic foot.,Terne,Plate sheet
-313,IS_COMPOSED_OF,700,STEEL,,,Springy,,,Clean. May include any such material whether resulting from crushing,Springy,,,,Ferrous Scrap ,,221,Shoveling Turnings,Turnings
-314,IS_COMPOSED_OF,700,STEEL,,,Springy,,,Clean. May include any such material whether resulting from crushing,Springy,,,,Ferrous Scrap ,,222,Shoveling Turnings and Iron Borings,Turnings
-315,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,,Ferrous Scrap ,,Briquetted Steel Turnings,,,,,227,Steel,Turnings
-316,IS_COMPOSED_OF,700,STEEL,,,Iron borings,,,Clean. May not include badly rusted or corroded stock.,Iron borings,Machine Shop Turnings and Iron Borings,,,Ferrous Scrap ,,220,Wrought Iron or steel,Trunings and borings (iron)
-317,IS_COMPOSED_OF,700,STEEL,,,Iron borings,,,Clean. May not include badly rusted or corroded stock.,Iron borings,Machine Shop Turnings,,,Ferrous Scrap ,,219,Wrought Iron or steel,Turnings
-318,IS_COMPOSED_OF,700,STEEL,,,All metal-coated material,,217,,All metal-coated material,Bundled No. 1 Steel,,,Ferrous Scrap ,,1/8 inch or over in thickness and weighing not less than 75 pounds per cubic foot,Wrought iron and/or steel ,Compressed to charging box size
-319,IS_COMPOSED_OF,700,STEEL,,,All coated material,,218,,All coated material,Bundled No. 2 Steel,,,Ferrous Scrap ,,1/8 inch and over in thickness and weighing not less than 75 pounds per cubic foot.,Wrought iron and/or steel ,Black or galvanized. Compressed to charging box size. Auto body and fender stock
-320,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,212,Ferrous Scrap ,,Shredded Clippings,,,,,Material should have an average density of 60 pounds per cubic foot,1000 series carbon steel ,Clippings or sheets
-321,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,209,,,No. 2 Bundles,,,Ferrous Scrap ,,Weighing not less than 75 pounds per cubic foot,Steel,Old black and galvanized hydraulically compressed to charging box size. May not include tin or lead-coated material or vitreous enameled material.
-322,IS_COMPOSED_OF,700,STEEL,,,Other non-metallics,,213,,Other non-metallics,Steel Can Bundles,,,Ferrous Scrap ,,Weighing not less than 75 pounds per cubic foot,Steel,Scrap compressed to charging box size. Cans may be baled without removal of paper labels. May include up to 5 gallon tin coated containers.
-323,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,214,Compressed to charging box size. May include all coated ferrous scrap not suitable for inclusion in No. 2 bundles,,No. 3 Bundles,,,Ferrous Scrap ,,Weighing not less than 75 pounds per cubic foot. ,Steel,Sheet
-324,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,201,,,No. 1 Heavy Melting Steel 3 feet x 18 inches,,,Ferrous Scrap ,,1/4 inch and over in thickness. Individual pieces not over 36 x 18 inches (charging box size),Wrougt iron and/or steel,Prepared in a manner to insure compact charging.
-325,IS_COMPOSED_OF,700,STEEL,,,Sheet iron or thin gauged material,,205,,Sheet iron or thin gauged material,No. 2 Heavy Melting Steel 3 feet x 18 inches,,,Ferrous Scrap ,,Maximum size 36 x18 inches,Wrougt iron and steel ,Black and galvanized. May include all automobile scrap properly prepared.
-326,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,202,,,No. 1 Heavy Melting Steel 5 feet x 18 inches,,,Ferrous Scrap ,,1/4 inch and over in thickness. Individual pieces not over 60 x 18 inches (charging box size),Wrougt iron and/or steel,Prepared in a manner to insure compact charging.
-327,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,204,,,No. 2 Heavy Melting Steel,,,Ferrous Scrap ,,Maximum size 36 x18 inches,Wrougt iron and steel ,Black and galvanized. May include all automobile scrap properly prepared.
-328,IS_COMPOSED_OF,700,STEEL,,,Metal coated,,207,Clean steel scrap,Metal coated,No. 1 Busheling,,,Ferrous Scrap ,,Maximum size 2 feet by 5 feet,Steel,Sheet
-329,IS_COMPOSED_OF,700,STEEL,,,Metal coated,,208,Compressed or hand bundled,Metal coated,No. 1 Bundles,,,Ferrous Scrap ,,Weighing not less than 75 pounds per cubic foot.,Black steel ,Sheet
-330,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,211,,,Shredded Scrap,,,Ferrous Scrap ,,Average density 70 pounds per cubic foot.,Iron and Steel ,Homogeneous
-331,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,200,,,No. 1 Heavy Melting Steel,,,Ferrous Scrap ,,1/4 inch and over in thickness. Individual pieces not over 60 x 24 inches (charging box size),Wrougt iron and/or steel,Prepared in a manner to insure compact charging.
-332,IS_COMPOSED_OF,700,STEEL,,,Sheet iron or thin gauged material,,206,,Sheet iron or thin gauged material,No. 2 Heavy Melting Steel 5 feet x 18 inches,,,Ferrous Scrap ,,Maximum size 60 x18 inches,Wrougt iron and steel ,Black and galvanized. May include all automobile scrap properly prepared.
-333,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,210,,,Shredded Scrap,,,Ferrous Scrap ,,Average density 50 pounds per cubic foot.,Iron and Steel ,Homogeneous
-334,IS_COMPOSED_OF,700,STEEL,,,Ferrous Scrap ,,203,,,No. 2 Heavy Melting Steel,,,Ferrous Scrap ,,1/8 inch and over in thickness,Wrougt iron and steel ,Black and galvanized. Charging box size to include material not suitable as No. 1 heavy melting steel. Prepared in a manner to insure compact charging.
-335,IS_COMPOSED_OF,701,STAINLESS STEEL,,,Nonferrous metals,,,Consist of clean 18-8 type stainless steel turnings containing a minimum 7% nickel and 16% chrome,Nonferrous metals,Stainless Steel Turnings,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Ultra,Stainless Steel,Turnings
-336,IS_COMPOSED_OF,701,STAINLESS STEEL,,,Harmful contaminants,,,Consist of clean 18-8 type stainless steel clips and solids containing a minimum 7% nickel,Harmful contaminants,Stainless Steel Scrap,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Sabot,Stainless Steel,Clips and Solids 
-337,IS_COMPOSED_OF,701,STAINLESS STEEL,,,Foreign attachments and other contamination.,,,Consist of all types of clean AISI Series Stainless Steel Scrap Solids,Foreign attachments and other contamination.,200 Series Stainless Steel Scrap Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Pekoe,Stainless Steel,Scrap Solids 
-338,IS_COMPOSED_OF,702,IRON,,,Springy,,,Clean. May include any such material whether resulting from crushing,Springy,,,,Ferrous Scrap ,,222,Shoveling Turnings and Iron Borings,Turnings
-339,IS_COMPOSED_OF,702,IRON,,,Ferrous Scrap ,,,Ferrous Scrap ,,Briquetted Iron Borings,,,,,226,Iron,Borings
-340,IS_COMPOSED_OF,702,IRON,,,Iron borings,,,Clean. May not include badly rusted or corroded stock.,Iron borings,Machine Shop Turnings and Iron Borings,,,Ferrous Scrap ,,220,Wrought Iron or steel,Trunings and borings (iron)
-341,IS_COMPOSED_OF,702,IRON,,,Ferrous Scrap ,,211,,,Shredded Scrap,,,Ferrous Scrap ,,Average density 70 pounds per cubic foot.,Iron and Steel ,Homogeneous
-342,IS_COMPOSED_OF,702,IRON,,,Ferrous Scrap ,,210,,,Shredded Scrap,,,Ferrous Scrap ,,Average density 50 pounds per cubic foot.,Iron and Steel ,Homogeneous
-343,IS_COMPOSED_OF,703,MAGNESIUM,,,Copper,,,Clean,Copper,Magnesium Clips,,,Nonferrous Scrap - Magnesium,,Wafer,Magnesium ,Clips
-344,IS_COMPOSED_OF,703,MAGNESIUM,,,Copper,,,Clean ,Copper,Magnesium Engraver Plates,,,Nonferrous Scrap - Magnesium,,Wine,Magnesium ,Engraver plates 
-345,IS_COMPOSED_OF,703,MAGNESIUM,,,Foreign attachments,,,Clean,Foreign attachments,Magnesium Dockboards,,,Nonferrous Scrap - Magnesium,,Wood,Magnesium ,Dockboards
-346,IS_COMPOSED_OF,703,MAGNESIUM,,,Brass,,,Nonferrous Scrap - Magnesium,Brass,Magnesium Scrap,,,,,Walnut,Magnesium ,Castings
-347,IS_COMPOSED_OF,703,MAGNESIUM,,,Nonferrous Scrap - Magnesium,,,Nonferrous Scrap - Magnesium,,Magnesium Turnings,,,,,World,Magnesium ,Turnings
-348,IS_COMPOSED_OF,704,NICKEL,,,Castings,,,Old and/or new. Material to contain a minimum of 98% nickel; Copper maximum 0.50%.,Castings,,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Burly,Old Nickel Scrap,Sheet
-349,IS_COMPOSED_OF,704,NICKEL,,,Castings,,,Clean. Nickel minimum 99%; Cobalt maximum 0.25%; Copper maximum 0.50%.,Castings,New Nickel Scrap,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Aroma,Wrought nickel ,Sheet
-350,IS_COMPOSED_OF,705,CUPRO NICKEL,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,,Clean,,Cupro Nickel Spinnings,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Decoy,Cupro nickel ,Spinnings
-351,IS_COMPOSED_OF,705,CUPRO NICKEL,,,Trimmed seams and edges and all other contamination.,,,Consist of segregated (normally accepted analysis grades) either 70/30,Trimmed seams and edges and all other contamination.,Soldered Cupro Nickel Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Delta,Cupro nickel ,Solids 
-352,IS_COMPOSED_OF,705,CUPRO NICKEL,,,Foreign attachments or any other contamination,,,Clean,Foreign attachments or any other contamination,New Cupro Nickel Clips and Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Dandy,Cupro nickel ,Tube
-353,IS_COMPOSED_OF,705,CUPRO NICKEL,,,Foreign attachments and all other contamination.,,,Old,Foreign attachments and all other contamination.,Cupro Nickel Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Daunt,Cupro nickel ,Tube
-354,IS_COMPOSED_OF,706,NICKEL-COPPER,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,,Consist of miscellaneous scrap in which the basic elements,,null,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Depth,Copper/Nickel ,Miscellaneous scrap (e.g. peelings
-355,IS_COMPOSED_OF,707,MONEL,,,Foreign attachments or any other contamination,,,Shall consist of various types of clean Monel castings,Foreign attachments or any other contamination,Monel Castings,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Lemon,Monel ,Castings
-356,IS_COMPOSED_OF,707,MONEL,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,,Shall consist of mixed Monel turnings and borings containing a minimum of 60% nickel content,,Monel Turnings,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Lemur,Monel ,Turnings
-357,IS_COMPOSED_OF,707,MONEL,,,Foreign attachments or all other contamination.,,,New,Foreign attachments or all other contamination.,New Mixed Monel Solids and Clippings,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,House,R-Monel/K-Monel,Solids and Clippings
-358,IS_COMPOSED_OF,707,MONEL,,,Soldered,,,Clean,Soldered,Old Monel Sheet and Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Ideal,R-Monel/K-Monel,Solids (e.g. sheet
-359,IS_COMPOSED_OF,707,MONEL,,,Trimmed seams and edges,,,Consist of soldered and/or brazed miscellaneous grades of Monel alloys in either wrought or cast form.,Trimmed seams and edges,Soldered Monel Sheet and Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Junto,Monel ,Solids
-360,IS_COMPOSED_OF,707,MONEL,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,,Clean ,,K-Monel Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Indian,K-Monel,Solids
-361,IS_COMPOSED_OF,707,MONEL,,,Foreign attachments or all other contamination.,,,Clean,Foreign attachments or all other contamination.,New R-Monel Clippings and Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Hitch,R-Monel,Sheet
-362,IS_COMPOSED_OF,708,R-MONEL,,,Foreign attachments or all other contamination.,,,Clean,Foreign attachments or all other contamination.,New R-Monel Clippings and Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Hitch,R-Monel,Sheet
-363,IS_COMPOSED_OF,709,K-MONEL,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,,Clean ,,K-Monel Solids,,,Nonferrous Scrap - Nickel/Stainless/Hi Temp,,Indian,K-Monel,Solids
+,Relationship,full_community_id_src,name_src,Ar_trg,AtomicNumber_trg,Categorisation_trg,Density_trg,Dimensions_trg,Form_trg,Free_of_trg,Material_trg,MeltingPoint_trg,Series_trg,Specifications_trg,Symbol_trg,Title_trg,full_community_id_trg,name_trg
+0,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,['Minimum size of 3� (8 cm) in any direction'],['Lithographic Sheets'],"[' ink', 'paper', ' and any other contaminants', ' plastic']",['Aluminum'],,,"['New', ' clean. To consist of 1000 and/or 3000 series alloys', ' uncoated', ' unpainted']",,"['New', ' Clean Aluminum Lithographic Sheets']",['51'],['Tabloid']
+1,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Lithographic Sheets'],"['paper', ' excessively inked sheets', ' and any other contaminants', ' plastic']",['Aluminum '],,,['Clean. To consist of 1000 and/or 3000 series alloys'],,['Clean Aluminum Lithographic Sheets'],['50'],['Tablet']
+2,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Nonferrous Scrap'],"['Radioactive material', ' or ash', ' dross']",,,,"[' and zinc', 'Shall be made up of a combination of the nonferrous metals – aluminum', ' other segregation technique(s)', ' flotation', ' magnesium', ' tin', ' copper', ' stainless steel', ' screening', ' �Zorba 90� means the material contains approximately 90% nonferrous metal content). May also be screened to permit description by specific size ranges. (Refer also to Zorba under Mixed Metals.)', ' in elemental or alloyed (solid) form. Material generated by eddy current', ' air separation', ' lead', ' nickel', ' or a combination thereof. Shall have passed one or more magnets to reduce or eliminate free iron and/or large iron attachments. Material to be bought/sold under this guideline shall be identified as �Zorba� with a number to follow indicating the estimated percentage nonferrous metal content of the material (e.g.']",,['Shredded Nonferrous Scrap (predominantly aluminum)'],['97'],['Zorba']
+3,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Foil'],"['Radar chaff foil', ' laminated foils', ' iron', ' chemically etched foil', ' paper', ' plastic and other non-metallic contaminants']",['Aluminum'],,,"[' 3000 and 8000 series aluminum alloy. Material may be anodized and contain a maximum of 5% organic residue', 'Baled old household aluminum foil and formed foil containers of uncoated 1000']",,['Post Consumer Aluminum Foil'],['79'],['Tesla']
+4,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,['Minimum thickness of .015� (.38 mm)'],['Clippings and Solids'],"['Hair wire', ' dirt and other nonmetallic items. Also free from punchings less than 1/2� (1.27 cm) in size.', ' wire screen']",['Aluminum'],,,"['New', ' clean', ' uncoated and unpainted aluminum scrap of one specified aluminum alloy. Oil and grease not to total more than 1%.']",,['Segregated New Aluminum Alloy Clippings and Solids'],['85'],['Tooth']
+5,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,"[' Forgings and Extrusions', 'Castings']","['Sawings', ' zinc', ' iron', ' stainless steel', ' oil', ' grease and other non-metallic items', ' dirt']",['Aluminum'],,,"[' and extrusions of one specified alloy only', ' forgings', 'New', ' clean', ' uncoated aluminum castings']",,['null'],['87'],['Tread']
+6,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,['Minimum thickness of .015� (.38 mm)'],['Clippings and Solids'],"['Hair wire', ' dirt and other nonmetallic items. Also free from punchings less than 1/2� (1.27 cm) in size.', ' wire screen']",['Aluminum'],,,"['New', ' uncoated and unpainted aluminum scrap of two or more alloys. Oil and grease not to total more than 1%.', ' clean']",,['Mixed New Aluminum Alloy Clippings and Solids'],['86'],['Tough']
+7,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Extrusions'],"[' saw chips', ' thermo break', ' and other foreign contamination.', ' cardboard', 'Iron', ' paper', ' zinc corners', ' dirt']",['Aluminum'],,,"['Old extruded aluminum of one alloy', ' typically alloy 6063', ' 6061', ' or 7075']",,['Aluminum Extrusions Dealer Grade'],['73'],['Tutu']
+8,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Extrusions'],"[' thermo break', ' felt', ' cardboard', ' iron attachments', ' paper', ' plastic', ' zinc corners', ' and dirt and other contaminants', 'Other alloys of aluminum']",['Aluminum'],,,['Material to consist of new production and old/used 6063 extrusions that may contain up to (but not exceed) 10 percent painted extrusions and 10 percent 6061 alloy extrusions.'],,['Aluminum Extrusions 10/10'],['72'],['Toto']
+9,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Cans and clippings '],"[' dirt and other foreign contamination', 'Lids with sealers', ' iron']",['Aluminum '],,,"[' and coated with clear lacquer. Oil not to exceed 1%.', 'Low copper', ' lithographed or not lithographed', ' clean']",,['New Aluminum Can Stock'],['54'],['Take']
+10,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Aluminum Scrap '],"['Corrosion', ' dross or any non-aluminum inclusions']",['Aluminum'],,,"['Aluminum scrap which has been sweated or melted into a form or shape such as an ingot', ' sow or slab for convenience in shipping']",,['Sweated Aluminum'],['84'],['Throb']
+11,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Foil'],"[' plastics', ' radar foil and chaff', 'Anodized foil', ' or any other non-metallic items', ' paper']",['Aluminum'],,,"[' uncoated 1000 and/or 3000 and/or 8000 series alloy aluminum foil', ' pure', ' new', 'Clean']",,['New Aluminum Foil'],['78'],['Terse']
+12,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Wire and Cable '],"['Hair wire', ' ACSR', ' iron', ' insulation and other non-metallic items.', ' wire screen']",['Aluminum'],,,"['New', ' unalloyed', ' clean']",,['New Pure Aluminum Wire and Cable'],['64'],['Talon']
+13,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Siding scrap '],"[' fiber', ' or fiberglass backing or other non-metallic items', ' corrosion', ' iron', 'Plastic coating', ' dirt', ' foam']",['Aluminum'],,,"['Clean', ' low copper', ' painted one or two sides']",,['Painted Siding'],['60'],['Tale']
+14,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Wire'],['Other wires and cables unless mutually agreed upon'],['Aluminum'],,,"[' of various configurations', 'Aluminum Conductor Steel Reinforced (ACSR) wire is a combination of steel and aluminum wire', ' with the expected aluminum recovery agreed upon by the buyer and the seller.']",,['ACSR'],['90'],['Trill']
+15,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['E.C. '],"[' insulation and other non-metallic items. Must be free of minus 20 mesh material', ' iron', ' copper', ' hair-wire', 'Screening']",['Aluminum'],,,"[' Chopped or Shredder. Must contain 99.45% aluminum content.', 'Clean']",,['E.C. Aluminum Nodules'],['62'],['Tall']
+16,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Wheels'],"[' steel', ' wheel weights', ' tires', ' valve stems', 'All inserts', ' grease and oil and other non-metallic items']",['Aluminum'],,,"[' single-piece', ' unplated aluminum wheels of a single specified alloy', 'Clean']",,['Aluminum Auto Truck Wheels'],['88'],['Troma']
+17,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Aircraft Scrap'],['Excessively oxidized material'],['Aluminum'],,,"[' of which no more than 1% shall be rubber and plastics.', ' 1% maximum free magnesium', 'The material as received must be dry and not to contain more than 2% free zinc', ' and 1.5% maximum free iron and stainless with a maximum of 2% analytical iron. Not to contain more than a total 5% maximum of non-metallics']",,['Fragmentizer Aircraft Aluminum Scrap (2000 and 7000 series)'],['92'],['Twirl']
+18,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Wire and Cable '],"['Hair wire', ' insulation and other non-metallic items', ' wire screen', ' iron']",['Aluminum'],,,"['New', ' unalloyed. May contain up to 10% 6000 series wire and cable', ' clean']",,['New Mixed Aluminum Wire and Cable'],['65'],['Tann']
+19,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Wire and Cable '],"['Hair wire', ' insulation and other non-metallic items', ' wire screen', ' iron']",['Aluminum'],,,"[' unalloyed', ' containing not over 1% free oxide or dirt', 'Old']",,['Old Pure Aluminum Wire and Cable'],['70'],['Taste']
+20,IS_COMPOSED_OF,244,ALUMINUM,,,['Nonferrous Scrap - Aluminum'],,,['Extrusions'],['Any foreign contamination'],['Aluminum'],,,['Consists of one alloy (typically 6063). Material may contain �butt ends� from the extrusion process. Anodized material is acceptable.'],,['New Production Aluminum Extrusions'],['71'],['Tata']
+21,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['298'],['2218']
+22,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['301'],['2397']
+23,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['367'],['6061']
+24,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['426'],['1230']
+25,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['271'],['2080']
+26,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['341'],['5019']
+27,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['410'],['8009']
+28,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['342'],['5024']
+29,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['423'],['1100']
+30,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['347'],['5056']
+31,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['297'],['2198']
+32,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['351'],['5154']
+33,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['401'],['7085']
+34,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['376'],['6101']
+35,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['413'],['8019']
+36,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['378'],['6113']
+37,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['362'],['6009']
+38,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['388'],['7010']
+39,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['405'],['7150']
+40,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['307'],['2618']
+41,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['419'],['8176']
+42,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['289'],['2095']
+43,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['261'],['2004']
+44,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['356'],['5454']
+45,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['412'],['8014']
+46,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['409'],['8006']
+47,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['393'],['7050']
+48,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['303'],['2324']
+49,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['287'],['2091']
+50,CONTAINS,244,ALUMINUM,,,,,,,,,,['#VALUE!'],,,,['370'],['6063A']
+51,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['416'],['8090']
+52,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['312'],['3103']
+53,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['385'],['6463']
+54,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['366'],['6060']
+55,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['290'],['2097']
+56,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['415'],['8030']
+57,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['411'],['8011']
+58,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['398'],['7075']
+59,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['400'],['7079']
+60,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['390'],['7034']
+61,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['309'],['3004']
+62,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['305'],['2519']
+63,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['379'],['6151']
+64,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['336'],['4047']
+65,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['420'],['1050']
+66,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['424'],['1145']
+67,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['397'],['7072']
+68,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['373'],['6070']
+69,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['368'],['6063']
+70,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['308'],['3003']
+71,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['408'],['7475']
+72,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['422'],['1070']
+73,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['402'],['7093']
+74,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['374'],['6081']
+75,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['311'],['3102']
+76,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['395'],['7065']
+77,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['343'],['5026']
+78,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['359'],['5557']
+79,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['291'],['2098']
+80,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['364'],['6013']
+81,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['391'],['7039']
+82,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['268'],['2036']
+83,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['396'],['7068']
+84,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['372'],['6066']
+85,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['353'],['5182']
+86,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['363'],['6010']
+87,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['266'],['2024']
+88,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['304'],['2319']
+89,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['386'],['6951']
+90,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['334'],['4032']
+91,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['375'],['6082']
+92,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['267'],['2029']
+93,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['404'],['7129']
+94,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['335'],['4043']
+95,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['300'],['2297']
+96,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['349'],['5083']
+97,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['403'],['7116']
+98,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['340'],['5010']
+99,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['346'],['5652']
+100,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['262'],['2011']
+101,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['421'],['1060']
+102,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['360'],['5754']
+103,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['313'],['3303']
+104,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['302'],['2224']
+105,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['344'],['5050']
+106,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['377'],['6105']
+107,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['345'],['5052']
+108,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['350'],['5086']
+109,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['383'],['6262']
+110,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['365'],['6022']
+111,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['357'],['5456']
+112,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['406'],['7178']
+113,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['293'],['2124']
+114,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['427'],['1350']
+115,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['314'],['3105']
+116,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['392'],['7049']
+117,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['317'],['4007']
+118,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['384'],['6351']
+119,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['381'],['6201']
+120,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['316'],['4006']
+121,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['269'],['2048']
+122,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['296'],['2197']
+123,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['315'],['3203']
+124,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['361'],['6005']
+125,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['352'],['5254']
+126,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['295'],['2196']
+127,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['380'],['6162']
+128,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['348'],['5059']
+129,CONTAINS,244,ALUMINUM,,,,,,,,,,['3000'],,,,['310'],['3005']
+130,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['414'],['8025']
+131,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['417'],['8091']
+132,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['292'],['2099']
+133,CONTAINS,244,ALUMINUM,,,,,,,,,,['#VALUE!'],,,,['369'],['646g']
+134,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['354'],['5252']
+135,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['387'],['7005']
+136,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['425'],['1199']
+137,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['306'],['2524']
+138,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['389'],['7022']
+139,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['399'],['7175']
+140,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['294'],['2195']
+141,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['339'],['5657']
+142,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['338'],['5005']
+143,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['264'],['2017']
+144,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['371'],['6065']
+145,CONTAINS,244,ALUMINUM,,,,,,,,,,['6000'],,,,['382'],['6205']
+146,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['265'],['2020']
+147,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['407'],['7255']
+148,CONTAINS,244,ALUMINUM,,,,,,,,,,['1000'],,,,['428'],['1370']
+149,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['263'],['2014']
+150,CONTAINS,244,ALUMINUM,,,,,,,,,,['7000'],,,,['394'],['7055']
+151,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['286'],['2090']
+152,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['337'],['4543']
+153,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['288'],['2094']
+154,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['355'],['5356']
+155,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['270'],['2055']
+156,CONTAINS,244,ALUMINUM,,,,,,,,,,['8000'],,,,['418'],['8093']
+157,CONTAINS,244,ALUMINUM,,,,,,,,,,['4000'],,,,['318'],['4015']
+158,CONTAINS,244,ALUMINUM,,,,,,,,,,['5000'],,,,['358'],['5457']
+159,CONTAINS,244,ALUMINUM,,,,,,,,,,['2000'],,,,['299'],['2219']
+160,IS_COMPOSED_OF,245,MALLEABLE IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,,"[' locomotives or mescellaneous melleable iron castings', 'Malleable parts of automobiles', ' railroad cars']",['Cast iron and steel parts and other foreign material'],,,,,,['Malleable'],['225'],['264']
+161,IS_COMPOSED_OF,245,MALLEABLE IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Borings and drillings '],"['Steel turnings', ' lumps', ' scale', ' corroded or rusty material', ' or chips']",['Cast or malleable iron '],,,['Containing not more than 1 percent oil'],,['No. 1 Chemical Borings'],['228'],['267']
+162,IS_COMPOSED_OF,245,MALLEABLE IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Borings and drillings '],"['Steel turnings', ' lumps', ' scale', ' corroded or rusty material', ' or chips']",['Cast or malleable iron '],,,"['Nea clean', ' containing not more than 1.5 percent oil']",,['No. 2 Chemical Borings'],['232'],['271']
+163,IS_COMPOSED_OF,245,MALLEABLE IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Borings and drillings '],"['Steel turnings', ' scale', ' lumps and excessive oil']",['Malleable iron '],,,['Clean '],,['Malleable Borings'],['231'],['270']
+164,IS_COMPOSED_OF,245,MALLEABLE IRON,,,['Ferrous Scrap '],,,['Borings and drillings '],"['Steel turnings', ' scale', ' lumps or excessive oil.']",['Cast Iron or malleable iron '],,,['Clean'],,['Iron Borings'],['182'],['223']
+165,IS_COMPOSED_OF,246,ALUMINUM BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Condenser tubes'],['Nickel alloy and corroded material'],['Aluminum Brass'],,,['Clean. May be plated or unplated'],,['Aluminum Brass Condenser Tubes'],['47'],['Pallu']
+166,IS_COMPOSED_OF,247,BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Pipe '],['Plated and soldered materials or pipes with cast brass connections'],['Brass'],,,"[' clean pipes free of sediment and condenser tubes', 'To be sound']",,['Brass Pipe'],['37'],['Melon']
+167,IS_COMPOSED_OF,247,BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Rifle shells'],"[' iron and any other foreign material', 'bullets']",['Brass'],,,"[' all shells must be sufficiently mutilated to prevent reuse and reloading.', 'Clean muffled. For material to be exported from the United States']",,"[' Clean Muffled (Popped)', 'Brass Small Arms and Rifle Shells']",['31'],['Lamb']
+168,IS_COMPOSED_OF,247,BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Rifle shells'],"[' iron and any other foreign material', 'bullets']",['Brass'],,,"['Clean. For material to be exported from the United States', ' all shells must be sufficiently mutilated to prevent reuse and reloading']",,"[' Clean Fired', 'Brass Small Arms and Rifle Shells']",['30'],['Lake']
+169,IS_COMPOSED_OF,247,BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Fired 70/30 shell cases'],['primers and any other foreign material'],['Brass'],,,"['Clean. For material to be exported from the United States', ' all shells must be sufficiently mutilated to prevent reuse and reloading']",,['Brass Shell Cases Without Primers'],['28'],['Lace']
+170,IS_COMPOSED_OF,247,BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Borings'],,['Brass'],,,"[' and a lead content of not less than 6% nor more than 11%', ' and the total impurities', ' antimony', 'Copper content of not less than 75%', ' and nickel of not more than 0.75%; the antimony content not to exceed 0.50%.', ' exclusive of zinc', ' a tin content of not less than 6%']",,['Machinery or Hard Brass Borings'],['21'],['Erin']
+171,IS_COMPOSED_OF,247,BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Solids'],['lined and unlined standard red car boxes.'],['Brass'],,,"[' and a lead content of not less than 6% nor more than 11%', ' antimony', 'Copper content of not less than 75%', ' and nickel of not more than 0.75%; the antimony content not to exceed 0.50%.', ' exclusive of zinc', ' and total impurities', ' a tin content of not less than 6%']",,['Machinery or Hard Brass Solids'],['20'],['Engel']
+172,IS_COMPOSED_OF,248,BRONZE,,,['Nonferrous Scrap - Red Metals'],,,['Solids and Borings'],,['Bronze'],,,['It is recommended that these materials be sold on sample or analysis.'],,['High Lead Bronze Solids and Borings'],['18'],['Elias']
+173,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,['Wire gauge subject to agreement between buyer and seller'],['Wire '],,['Copper '],,,"['Bare', ' Unalloyed', ' Uncoated']",,['No. 1 Copper Wire'],['0'],['Berry']
+174,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,['not smaller than No. 16 B & S wire gauge (unless smaller wire gauge is mutually agreed upon)'],['Wire'],,['Copper'],,,"[' unalloyed with various types of insulation', 'Uncoated']",,['Insulated Copper Wire Scrap'],['12'],['Druid']
+175,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,,['Wire '],,['Copper '],,,"['with various types of insulation. To be sold on a sample or recovery basis', ' subject to agreement between buyer and seller. Existence of jelly wire subject to agreement between buyer and seller.']",,['Insulated Copper Wire Scrap'],['10'],['Droid']
+176,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,,['Wire scrap nodules'],,['Copper '],,,"['Unalloyed', ' Chopped or shredded. Maximum metal impurities not to exceed 0.50% aluminum and 1% each of other metals or insulation.']",,['No. 2 Copper Wire Nodules'],['6'],['Cobra']
+177,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,['Gauge smaller than No. 16 B & S wire subject to agreement between buyer and seller'],['Wire scrap nodules'],"[' Other metallic impurities', ' other foreign contamination', ' Iron', ' Lead', ' Zinc', 'Tin', ' Aluminum', ' Insulation']",['[Copper '],,,"[' Chopped or Shredded', ' Unalloyed', 'Uncoated']",,['No. 1 Copper Wire Nodules'],['5'],['Clove']
+178,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,,['Miscellaneous Scrap'],"[' brasses and bronzes; excessive oil content', ' non-metallics', ' brittle burnt wire', ' iron', 'excessively leaded', ' insulation', ' reasonable free of ash', ' tinned', ' soldered copper scrap', ' copper tubing with other than copper connections or with sediment', ' copper wire from burning', ' hair wire']",['Copper '],,,['Unalloyed'],,['No. 2 Copper Solids and Tubing'],['4'],['Cliff']
+179,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,,"[' bus bars', ' punchings', 'Clippings', ' commutator segments', ' copper tubing']",,['Copper '],,,"[' unalloyed', ' uncoated', 'clean']",,['No. 1 Heavy Copper Solids and Tubing'],['3'],['Candy']
+180,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,,"['Miscellaneous', ' Wire ']","['Excessively leaded', ' non-metallics', ' brittle burnt wire', ' iron', ' insulation', ' reasonable free of ash', ' tinned', ' soldered copper wire; brass and bronze wire; excessive oil content', ' copper wire from burning', ' hair wire']",['Copper '],,,['Unalloyed'],,['No. 2 Copper Wire'],['2'],['Birch']
+181,IS_COMPOSED_OF,249,COPPER,,,['Nonferrous Scrap - Red Metals'],,['Wire gauge subject to agreement between buyer and seller'],['Wire and Cable '],"[' Copper Tubing ', 'Brittle Burnt Wire']",['Copper '],,,"[' Unalloyed', ' Untinned', ' Uncoated', 'Clean']",,['No. 1 Copper Wire'],['1'],['Barley']
+182,CONTAINS,250,LEADED BRASS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+183,CONTAINS,250,LEADED BRASS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+184,CONTAINS,250,LEADED BRASS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+185,CONTAINS,250,LEADED BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+186,IS_COMPOSED_OF,250,LEADED BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Rod ends and forgings'],,['Leaded Brass'],,,"[' zinc and lead. Turnings shall be unmixed and have less than 0.01% alloyed bismuth and silicon each', 'Alloyed with copper']",,['Leaded Brass Scrap Rod Ends and Forgings'],['41'],['Niche']
+187,IS_COMPOSED_OF,250,LEADED BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Borings and turnings'],,['Leaded Brass'],,,"[' zinc and lead. Turnings shall be unmixed and have less than 0.01% alloyed bismuth and silicon each', 'Alloyed with copper']",,['Leaded Brass Scrap Turnings'],['40'],['Nascent']
+188,IS_COMPOSED_OF,251,LEAD-FREE BISMUTH BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Scrap borings and turnings'],,['Brass'],,,"[' and zinc. Turnings shall be unmixed and have less than 0.2% alloyed lead or as agreed between buyer and seller. Examples that meet this specification include', ' bismuth', ' but are not limited to', 'Alloyed with copper', ' CDA 89833/35/36/37/41/42 and 45.', ' tin']",,['Lead-Free Bismuth Brass Turnings'],['15'],['Ecstatic']
+189,IS_COMPOSED_OF,251,LEAD-FREE BISMUTH BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Scrap castings'],['leaded brass attachments and have less than 0.2% alloyed lead or as agreed between buyer and seller.'],['Brass'],,,"['tin', ' bismuth', ' but are not limited to', ' and zinc. Examples that meet this pecification include', 'Alloyed with copper', ' CDA 89833/35/36/37/41/42 and 45.']",,['Lead-Free Bismuth Brass Solids'],['14'],['Ebulent']
+190,IS_COMPOSED_OF,252,MANGANESE BRONZE,,,['Nonferrous Scrap - Red Metals'],,,['Solids '],['Aluminum bronze and silicon bronze.'],['Manganese bronze'],,,"['Copper content of not less than 55%', ' a lead content of not more than 1%']",,['Manganese Bronze Solids'],['49'],['Parch']
+191,IS_COMPOSED_OF,253,MUNTZ METAL,,,['Nonferrous Scrap - Red Metals'],,,['Tubes'],"['Nickel alloy', ' aluminum alloy and corroded material']",['Muntz metal '],,,"[' may be plated or unplated', 'Clean', ' sound']",,['Muntz Metal Tubes'],['48'],['Palms']
+192,IS_COMPOSED_OF,254,NICKEL SILVER,,,['Nonferrous Scrap - Red Metals'],,,['Turnings'],,['Nickel Silver'],,,['To be sold by sample or analysis'],,['null'],['39'],['Niece']
+193,IS_COMPOSED_OF,254,NICKEL SILVER,,,['Nonferrous Scrap - Red Metals'],,,['Castings'],,['Nickel Silver'],,,['To be packed and sold separately'],,['Nickel Silver Castings'],['38'],['Naggy']
+194,IS_COMPOSED_OF,254,NICKEL SILVER,,,['Nonferrous Scrap - Red Metals'],,,"[' pipe', ' rod', ' tubes', ' screen', 'Sheet', ' wire']","[' iron rimmed material and other metals', 'Foreign substances']",['Nickel Silver'],,,['Old. Soldered or unsoldered. Must not be trimmed seams alone.'],,['Old Nickel Silver'],['36'],['Malic']
+195,IS_COMPOSED_OF,254,NICKEL SILVER,,,['Nonferrous Scrap - Red Metals'],,,['Clippings'],,['Nickel Silver'],,,['Shall consist of one specified nickel silver alloy. Not to contain more than 10% of clean punchings under 1/4 inch.'],,['New Segregated Nickel Silver Clippings'],['35'],['Malar']
+196,IS_COMPOSED_OF,254,NICKEL SILVER,,,['Nonferrous Scrap - Red Metals'],,,"[' Rolled Shapes', ' Plate Rods', ' Forgings', 'Clippings']",['Chrome or any other plating material'],['Nickel Silver'],,,"['New', ' clean. Must be sold on nickel content specifications such as 10%� 12%�15%� 18%�20%. Leaded nickel silver clippings should be packed and sold separately. A description as to its physical characteristics should be made in offering all nickel silver material']",,['New Nickel Silver Clippings and Solids'],['34'],['Major']
+197,IS_COMPOSED_OF,254,NICKEL SILVER,,,['Nonferrous Scrap - Red Metals'],,,['Clippings'],['chrome or any other plating material'],['Nickel Silver'],,,['One or more nickel silver alloys the range of nickel content to be specified. Leaded nickel silver clippings should be packed and sold separately. Not to contain more than 10% of clean punchings under 1/4 inch'],,['Mixed New Nickel Silver Clippings'],['33'],['Maize']
+198,CONTAINS,255,RED BRASS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+199,CONTAINS,255,RED BRASS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+200,CONTAINS,255,RED BRASS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+201,CONTAINS,255,RED BRASS,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+202,CONTAINS,255,RED BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+203,IS_COMPOSED_OF,255,RED BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Turnings'],,['Red Brass'],,,['Should be sold subject to sample or analysis.'],,['Red Brass Composition Turnings'],['19'],['Enerv']
+204,IS_COMPOSED_OF,255,RED BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Bushings and bearings'],['iron-backed bearings'],['Brass'],,,"['from automobiles and other machinery', ' shall contain not less than 12% high tin-base babbitt']",,['null'],['17'],['Elder']
+205,IS_COMPOSED_OF,255,RED BRASS,,,['Nonferrous Scrap - Red Metals'],,['No piece to measure more than 12� over any one part or weigh over 100 lbs.'],"['Valves', ' including miscellaneous castings', ' machinery bearings and other machinery parts']","[' and manganese bronzes; iron and non-metallics.', 'semi-red brass castings (78% to 81% copper); railroad car boxes and other similar high-lead alloys; cocks and faucets; closed water meters; gates; pot pieces; ingots and burned brass; aluminum', ' silicon']",['Red Brass'],,,"[' zinc', 'Made of copper', ' tin', ' and/or lead']",,['Composition or Red Brass'],['13'],['Ebony']
+206,CONTAINS,256,YELLOW BRASS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+207,CONTAINS,256,YELLOW BRASS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+208,CONTAINS,256,YELLOW BRASS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+209,CONTAINS,256,YELLOW BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+210,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,['Pieces not larger than 12�'],['Rod ends'],"['Turning brass rods or forging rods', ' foreign matter', ' Muntz metal and naval brass or any other alloys']",['Yellow brass'],,,"[' not to contain more than 0.3% tin and not mode than 0.15% alloyed iron. ', 'New ', ' clean']",,['Yellow Brass Rod Ends'],['43'],['Noble']
+211,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Rod turnings (strictly)'],"[' composition', ' manganese', 'Aluminum', ' grindings and babbitts', ' Tobin and Muntz metal turnings']",['Yellow brass'],,,"['Not to contain over 3% free iron', ' oil or other moisture; to contain not more than 0.30% tin and not more than 0.15% alloyed iron']",,['Yellow Brass Rod Turnings'],['42'],['Night']
+212,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Turnings'],"['Aluminum', ' grindings and babbitts', ' manganese and composition turnings']",['Yellow brass'],,,"['Not to contain over 3% of free iron', ' oil or other moisture. To avoid dispute', ' to be sold subject to sample or analysis.']",,['Yellow Brass Turnings'],['44'],['Nomad']
+213,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,,['Primers'],"[' corrosion and any other foreign material', ' excessive dirt', 'iron']",['Yellow Brass'],,,"[' burnt or unburnt', 'Clean']",,['Yellow Brass Primer'],['32'],['Lark']
+214,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,,"[' Cuttings', 'Clippings']","['from foreign substances', ' Muntz metal and naval brass']",['Brass'],,,"[' not to contain more than 10% of clean brass punchings under 1/4 inch', ' to be clean', 'new unleaded yellow brass sheet or plate']",,['New Brass Clipings'],['27'],['Label']
+215,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,['no piece to measure more than 12 inches over any one part'],['Castings in crucible shape '],"['brass forgings', ' silicon bronze', ' aluminum bronze and manganese bronze']",,,,['not to contain more than 15% nickel plated material'],,['Yellow Brass Castings'],['26'],['Ivory']
+216,IS_COMPOSED_OF,256,YELLOW BRASS,,,['Nonferrous Scrap - Red Metals'],,,"['Mixed Solids', ' Castings', ' Tubings', ' Rolled', ' Plated', ' Rod']","[' but not limited to', ' any type of munitions including', ' and excessively dirty and corroded materials', ' iron', ' aluminumbronze', 'Manganese-bronze', ' unsweated radiators or radiator parts', ' bullet casings.']",['Yellow brass'],,,,,['Yellow Brass Scrap'],['25'],['Honey']
+217,CONTAINS,272,LEADED RED BRASS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+218,CONTAINS,272,LEADED RED BRASS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+219,CONTAINS,272,LEADED RED BRASS,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+220,CONTAINS,272,LEADED RED BRASS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+221,CONTAINS,272,LEADED RED BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+222,CONTAINS,273,LEADED SEMI-RED BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+223,CONTAINS,273,LEADED SEMI-RED BRASS,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+224,CONTAINS,273,LEADED SEMI-RED BRASS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+225,CONTAINS,273,LEADED SEMI-RED BRASS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+226,CONTAINS,273,LEADED SEMI-RED BRASS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+227,CONTAINS,274,HEAVY BRASS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+228,CONTAINS,274,HEAVY BRASS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+229,CONTAINS,274,HEAVY BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+230,CONTAINS,274,HEAVY BRASS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+231,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+232,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+233,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+234,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+235,CONTAINS,275,COPPER/NICKEL/ZINC ALLOYS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+236,CONTAINS,276,COPPER/NICKEL ALLOYS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+237,CONTAINS,276,COPPER/NICKEL ALLOYS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+238,CONTAINS,276,COPPER/NICKEL ALLOYS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+239,CONTAINS,277,HIGH LEADED TIN BRONZES,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+240,CONTAINS,277,HIGH LEADED TIN BRONZES,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+241,CONTAINS,277,HIGH LEADED TIN BRONZES,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+242,CONTAINS,277,HIGH LEADED TIN BRONZES,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+243,CONTAINS,277,HIGH LEADED TIN BRONZES,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+244,CONTAINS,278,TIN BRASSES,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+245,CONTAINS,278,TIN BRASSES,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+246,CONTAINS,278,TIN BRASSES,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+247,CONTAINS,278,TIN BRASSES,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+248,CONTAINS,278,TIN BRASSES,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+249,CONTAINS,279,TIN BBRONZE,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+250,CONTAINS,279,TIN BBRONZE,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+251,CONTAINS,279,TIN BBRONZE,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+252,CONTAINS,279,TIN BBRONZE,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+253,CONTAINS,280,PHOSPHOR BRONZE,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+254,CONTAINS,280,PHOSPHOR BRONZE,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+255,CONTAINS,280,PHOSPHOR BRONZE,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+256,CONTAINS,280,PHOSPHOR BRONZE,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+257,CONTAINS,281,HIGH COPPERS,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+258,CONTAINS,281,HIGH COPPERS,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+259,CONTAINS,281,HIGH COPPERS,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+260,CONTAINS,281,HIGH COPPERS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+261,CONTAINS,281,HIGH COPPERS,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+262,CONTAINS,282,MANGANES BRONZE,['65.38'],['30'],,['7.13'],,,,,['419.5'],,,['Zn'],,['328'],['ZINC']
+263,CONTAINS,282,MANGANES BRONZE,['118.71'],['50'],,['5.75'],,,,,['231.9'],,,['Sn'],,['326'],['TIN']
+264,CONTAINS,282,MANGANES BRONZE,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+265,CONTAINS,282,MANGANES BRONZE,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+266,CONTAINS,282,MANGANES BRONZE,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+267,CONTAINS,283,ALUMINUM BRONZE,['26.981539'],['13'],,['2.7'],,,,,['660.3'],,,['Al'],,['322'],['ALUMINUM']
+268,CONTAINS,283,ALUMINUM BRONZE,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+269,CONTAINS,283,ALUMINUM BRONZE,['207.2'],['82'],,['11.29'],,,,,['327.5'],,,['Pb'],,['329'],['LEAD']
+270,CONTAINS,284,SILICON BORNZE,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+271,CONTAINS,285,SILICON BRASS,['63.546'],['29'],,['8.96'],,,,,['1085'],,,['Cu'],,['319'],['COPPER']
+272,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,['Die castings'],['Corrosion'],['Zinc '],,,"[' zinc base die castings. Castings to be unplated', ' clean', 'New or unused', ' unpainted']",,['New Zinc Die Cast Scrap'],['99'],['Scabs']
+273,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,['Cast scrap produced from automobile fragmentizers'],,,,,"[' etc.', ' rubber', ' dirt', ' iron', ' red metal', ' not to exceed 5%.', 'Material to contain about 55% zinc-bearing scrap. Other nonferrous metals such as aluminum', ' stainless steel', ' to be about 40%. Insulated copper wire about 1%. Trash', ' oil', ' glass']",,['Unsorted Zing Die Cast Scrap'],['105'],['Scroll']
+274,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,['Broken pieces under 2� in diameter shall not exceed 10% of the weight of each shipment. Slabs shall not weigh over 100 pounds each.'],['Dross in slab'],,,,,['Consists only of galvanizers unsweated zinc dross in slab form from hot dip galvanizing (Batch Process) with a minimum zinc content of 92% and shall be free of skimmings and tramp iron. Material from continuous galvanizing operation is not acceptable.'],,['Hot Dip Galvanizers Slab Zinc Dross (Batch Process)'],['106'],['Scrub']
+275,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,['Not weighing in excess of 100 pounds each slab. Broken pieces under 2� in diameter shall not exceed 10% of the weight of each shipment.'],['Dross'],['Skimmings'],,,,"['Unsweated zinc dross removed from the top of a continuous line galvanizing bath', ' in slab form with a minimum zinc content of 90%. ']",,['Continuous Line Galvanizing Slab Zinc Top Dross'],['108'],['Seal']
+276,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,['Die cast materials in slabs or pigs'],['Material to be free from drosses and to contain a minimum zinc content of 90%'],,,,"[' in smooth clean solid slabs or pigs. To contain a maximum of 0.1% nickel and maximum of 1% lead.', 'Melted zinc base die cast materials']",,['Zinc Die Cast Slabs or Pigs'],['107'],['Scull']
+277,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,['Weighing not over 75 pounds each mold or mound.'],['Skimmings'],['Corrosion or oxidation'],,,,"[' unfluxed', 'Metal skimmed from the top of pot of molten zinc die cast metal. Must be unsweated', ' smooth', ' metallic. Should be poured in molds or in small mounds', ' shiny']",,['Prime Zinc Die Cast Dross'],['110'],['Shelf']
+278,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,"[' As Produced From Automobile Fragmentizers', 'Fragmentizer Die Cast Scrap']","[' rubber', 'Dirt', ' and trash', ' oil', ' glass']",,,,"['Clean.To contain a maximum of 5% unmeltables such as free iron', ' aluminum and other metals', ' copper']",,"['Crushed Clean Sorted Fragmentizer Die Cast Scrap', ' As Produced From Automobile Fragmentizers']",['104'],['Scribe']
+279,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,['Sheets or stampings '],['Corrosion '],,,,['New pure zinc. To contain no foreign material or attachments.'],,['New Zinc Clippings'],['103'],['Screen']
+280,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,"[' castings anti-corrosion plates', ' jar lids)', 'Zinc scrap (such as sheets']",,,,,"[' dry', ' unalloyed. Borings and turnings are not acceptable.Material must not be excessively corroded or oxidized. All foreign attachments and extraneous materials are deductible', 'Clean']",,['Old Zinc Scrap'],['102'],['Score']
+281,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,['Die castings automotive grilles '],['Soldered material'],['Zinc '],,,"[' old or used. All foreign attachments and extraneous materials are deductible.', 'Clean']",,['Zinc Die Cast Automotive Grilles'],['100'],['Scoot']
+282,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,['Not weighing in excess of 100 pounds each slab. Broken pieces under 2� in diameter shall not exceed 10% of the weight of each shipment.'],['Dross'],['Skimmings'],,,,"['Unsweated zinc dross removed from the top of a continuous line galvanizing bath', ' in slab form with a minimum zinc content of 92%. ']",,['Continuous Line Galvanizing Slab Zinc Bottom Dross'],['109'],['Seam']
+283,IS_COMPOSED_OF,695,ZINC,,,['Nonferrous Scrap - Zinc'],,,['Die castings'],"[' chunks', ' dross pieces', 'Borings', ' turnings', ' melted pieces and skimmings']",['Zinc'],,,"[' cork', ' foreign attachments', ' etc.) are deductible. Material containing in excess of 30% iron will not constitute good delivery.', 'Miscellaneous old zinc base die castings', ' and volatile substances (such as rubber', ' with or without iron and other foreign attachments. All unmeltables', ' plastic', ' grease', ' dirt']",,['Old Zinc Die Cast Scrap'],['98'],['Saves']
+284,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,,['Trunings and borings (iron)'],"[' or excessive oil', ' nonferrous metals in a free state', 'Iron borings', ' scale']",['Wrought Iron or steel'],,,['Clean. May not include badly rusted or corroded stock.'],,['Machine Shop Turnings and Iron Borings'],['179'],['220']
+285,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,,['Turnings'],"[' or excessive oil', ' nonferrous metals in a free state', 'Iron borings', ' scale']",['Wrought Iron or steel'],,,['Clean. May not include badly rusted or corroded stock.'],,['Machine Shop Turnings'],['178'],['219']
+286,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,,"[' drillings', ' screw cuttings and borings (iron) ', 'Turnings']","[' or excessive oil', 'Springy', ' lumps', ' grindings', ' tangled or matted material', ' nonferrous metals in a free state', ' bushy', ' iron borings']",,,,"['Clean. May include any such material whether resulting from crushing', ' or other processes.', ' raking']",,['Shoveling Turnings and Iron Borings'],['181'],['222']
+287,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,,"['Turnings', ' drillings', ' screw cuttings']","[' or excessive oil', 'Springy', ' lumps', ' grindings', ' tangled or matted material', ' nonferrous metals in a free state', ' bushy', ' iron borings']",,,,"['Clean. May include any such material whether resulting from crushing', ' or other processes.', ' raking']",,['Shoveling Turnings'],['180'],['221']
+288,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['1/8 inch or over in thickness and weighing not less than 75 pounds per cubic foot'],,['All metal-coated material'],['Wrought iron and/or steel '],,,['Compressed to charging box size'],,['Bundled No. 1 Steel'],['176'],['217']
+289,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['1/8 inch and over in thickness and weighing not less than 75 pounds per cubic foot.'],,"[' except as found on automobiles', 'All coated material']",['Wrought iron and/or steel '],,,"[' may constitute a maximum of 60 percent by weight. (This percent based on makeup of auto body', ' driveshafts', ' chassis', ' burnt or hand stripped', 'Black or galvanized. Compressed to charging box size. Auto body and fender stock', ' and bumpers.)']",,['Bundled No. 2 Steel'],['177'],['218']
+290,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['Maximum size 36 x18 inches'],,['Sheet iron or thin gauged material'],['Wrougt iron and steel '],,,['Black and galvanized. May include all automobile scrap properly prepared.'],,['No. 2 Heavy Melting Steel 3 feet x 18 inches'],['163'],['205']
+291,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['1/4 inch and over in thickness. Individual pieces not over 60 x 24 inches (charging box size)'],,,['Wrougt iron and/or steel'],,,['Prepared in a manner to insure compact charging.'],,['No. 1 Heavy Melting Steel'],['158'],['200']
+292,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['1/8 inch and over in thickness'],,,['Wrougt iron and steel '],,,['Black and galvanized. Charging box size to include material not suitable as No. 1 heavy melting steel. Prepared in a manner to insure compact charging.'],,['No. 2 Heavy Melting Steel'],['161'],['203']
+293,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['1/4 inch and over in thickness. Individual pieces not over 36 x 18 inches (charging box size)'],,,['Wrougt iron and/or steel'],,,['Prepared in a manner to insure compact charging.'],,['No. 1 Heavy Melting Steel 3 feet x 18 inches'],['159'],['201']
+294,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['Maximum size 60 x18 inches'],,['Sheet iron or thin gauged material'],['Wrougt iron and steel '],,,['Black and galvanized. May include all automobile scrap properly prepared.'],,['No. 2 Heavy Melting Steel 5 feet x 18 inches'],['164'],['206']
+295,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['Maximum size 36 x18 inches'],,,['Wrougt iron and steel '],,,['Black and galvanized. May include all automobile scrap properly prepared.'],,['No. 2 Heavy Melting Steel'],['162'],['204']
+296,IS_COMPOSED_OF,696,WROUGHT IRON,,,['Ferrous Scrap '],,['1/4 inch and over in thickness. Individual pieces not over 60 x 18 inches (charging box size)'],,,['Wrougt iron and/or steel'],,,['Prepared in a manner to insure compact charging.'],,['No. 1 Heavy Melting Steel 5 feet x 18 inches'],['160'],['202']
+297,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Boring briquettes'],"['Steel and nonferrous material', ' reasonably free of oil']",['Cast iron '],,,"[' and having a density of not less than 60 percent', 'hydraulically compressed into a cohesive solid']",,"['Briquetted Cast Iron Borings', ' Cold Process']",['230'],['269']
+298,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Borings'],,['Cast iron '],,,"[' to a density of approximately 85 percent', ' briquetted', 'Heated', ' oil and water content under 1 percent']",,"['Briquetted Cast Iron Borings', ' Hot Process']",['229'],['268']
+299,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,,['Ingot molds and stools'],,['Cast iron '],,,['Unbroken '],,['Unbroken Ingot Molds and Stools'],['227'],['266']
+300,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,,,"[' window weights', 'Malleable and steel parts', ' or burnt cast iron', ' plow points']",,,,,,"['Stove Plate', ' Clean Cast Iron Stove']",['219'],['258']
+301,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Borings and drillings '],"['Steel turnings', ' lumps', ' scale', ' corroded or rusty material', ' or chips']",['Cast or malleable iron '],,,"['Nea clean', ' containing not more than 1.5 percent oil']",,['No. 2 Chemical Borings'],['232'],['271']
+302,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,,"[' grate bars', ' and miscellaneous burnt iron', 'Stove parts']",,['Burnt cast iron '],,,['May include sash weights or window weights.'],,['Burnt Iron'],['217'],['256']
+303,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,,['Hammer block or bases'],,['Cast iron '],,,,,['Hammer Block or Bases'],['216'],['255']
+304,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,['Maximum size 2 feet x 3 feet x 5 feet'],['Ingot molds and stools'],,['Cast iron '],,,['Broken '],,['Broken Ingot Molds and Stools'],['226'],['265']
+305,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,['Dimensions not over 24 inches x 30 inches and no piece over 150 pounds in weight'],,,['Cast iron '],,,['May include all grades of cast iron except burnt iron.'],,['Mixed Cast'],['218'],['257']
+306,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Special Boring Grades'],,,['Borings and drillings '],"['Steel turnings', ' lumps', ' scale', ' corroded or rusty material', ' or chips']",['Cast or malleable iron '],,,['Containing not more than 1 percent oil'],,['No. 1 Chemical Borings'],['228'],['267']
+307,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,['Charging box size or weighing more than 500 pounds'],,,['Cast iron '],,,['May include cylinders and driving wheel centers. May include steel which does not exceed 10 percent of the casting by weight'],,['Heavy Breakable Cast'],['215'],['254']
+308,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,"['Cupola size', ' not over 24 inches x 30 inches', ' and no piece over 150 pounds in weight']","[' including automobile blocks and cast iron parts of agricultural and other machinery', 'Columns', ' plates', ' pipes', ' and castings of a miscellaneous nature']","['Stove plate', ' brake shoes or foreign material', ' burnt iron']",['Cast iron '],,,['Clean '],,['Cupola Cast'],['213'],['252']
+309,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap - Specially processed Grades to Meet Consumer Requirements - Cast Iron Grades'],,['Not over 60 inches in length or 30 inches in width'],,"[' or stove plate', ' brake shoes', 'Burnt iron']",['Cast iron '],,,"[' suitable for charging into an open hearth furnace without further preparation', 'Clean']",,['Charging Box Cast'],['214'],['253']
+310,IS_COMPOSED_OF,697,CAST IRON,,,['Ferrous Scrap '],,,['Borings and drillings '],"['Steel turnings', ' scale', ' lumps or excessive oil.']",['Cast Iron or malleable iron '],,,['Clean'],,['Iron Borings'],['182'],['223']
+311,IS_COMPOSED_OF,698,TIN,,,['Ferrous Scrap '],,['Weighing not less than 75 pounds per cubic foot'],['Cans'],,['Tin'],,,['Compressed to charging box size. Processed through a recognized garbage incinerator. '],,['Incinerator Bundles'],['174'],['215']
+312,IS_COMPOSED_OF,699,TERNE,,,['Ferrous Scrap '],,['weighing not less than 75 pounds per cubic foot.'],"[' clippings', 'Plate sheet', ' skeleton ']",,['Terne'],,,"[' to charging box size. (Hand bundles are tightly secured for handling with a magnet.) May include Stanley balls or mandrel wound bundles or skeleton reels', ' tightly secured.', 'Compressed or hand bundled']",,['Terne Plate Bundles'],['175'],['216']
+313,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,,"['Turnings', ' drillings', ' screw cuttings']","[' or excessive oil', 'Springy', ' lumps', ' grindings', ' tangled or matted material', ' nonferrous metals in a free state', ' bushy', ' iron borings']",,,,"['Clean. May include any such material whether resulting from crushing', ' or other processes.', ' raking']",,['Shoveling Turnings'],['180'],['221']
+314,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,,"[' drillings', ' screw cuttings and borings (iron) ', 'Turnings']","[' or excessive oil', 'Springy', ' lumps', ' grindings', ' tangled or matted material', ' nonferrous metals in a free state', ' bushy', ' iron borings']",,,,"['Clean. May include any such material whether resulting from crushing', ' or other processes.', ' raking']",,['Shoveling Turnings and Iron Borings'],['181'],['222']
+315,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,,['Turnings'],,['Steel'],,,,,['Briquetted Steel Turnings'],['186'],['227']
+316,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,,['Trunings and borings (iron)'],"[' or excessive oil', ' nonferrous metals in a free state', 'Iron borings', ' scale']",['Wrought Iron or steel'],,,['Clean. May not include badly rusted or corroded stock.'],,['Machine Shop Turnings and Iron Borings'],['179'],['220']
+317,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,,['Turnings'],"[' or excessive oil', ' nonferrous metals in a free state', 'Iron borings', ' scale']",['Wrought Iron or steel'],,,['Clean. May not include badly rusted or corroded stock.'],,['Machine Shop Turnings'],['178'],['219']
+318,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['1/8 inch or over in thickness and weighing not less than 75 pounds per cubic foot'],,['All metal-coated material'],['Wrought iron and/or steel '],,,['Compressed to charging box size'],,['Bundled No. 1 Steel'],['176'],['217']
+319,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['1/8 inch and over in thickness and weighing not less than 75 pounds per cubic foot.'],,"[' except as found on automobiles', 'All coated material']",['Wrought iron and/or steel '],,,"[' may constitute a maximum of 60 percent by weight. (This percent based on makeup of auto body', ' driveshafts', ' chassis', ' burnt or hand stripped', 'Black or galvanized. Compressed to charging box size. Auto body and fender stock', ' and bumpers.)']",,['Bundled No. 2 Steel'],['177'],['218']
+320,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Material should have an average density of 60 pounds per cubic foot'],['Clippings or sheets'],,['1000 series carbon steel '],,,,,['Shredded Clippings'],['171'],['212']
+321,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Weighing not less than 75 pounds per cubic foot'],,,['Steel'],,,['Old black and galvanized hydraulically compressed to charging box size. May not include tin or lead-coated material or vitreous enameled material.'],,['No. 2 Bundles'],['168'],['209']
+322,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Weighing not less than 75 pounds per cubic foot'],,['Other non-metallics'],['Steel'],,,['Scrap compressed to charging box size. Cans may be baled without removal of paper labels. May include up to 5 gallon tin coated containers.'],,['Steel Can Bundles'],['172'],['213']
+323,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Weighing not less than 75 pounds per cubic foot. '],['Sheet'],,['Steel'],,,['Compressed to charging box size. May include all coated ferrous scrap not suitable for inclusion in No. 2 bundles'],,['No. 3 Bundles'],['173'],['214']
+324,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['1/4 inch and over in thickness. Individual pieces not over 36 x 18 inches (charging box size)'],,,['Wrougt iron and/or steel'],,,['Prepared in a manner to insure compact charging.'],,['No. 1 Heavy Melting Steel 3 feet x 18 inches'],['159'],['201']
+325,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Maximum size 36 x18 inches'],,['Sheet iron or thin gauged material'],['Wrougt iron and steel '],,,['Black and galvanized. May include all automobile scrap properly prepared.'],,['No. 2 Heavy Melting Steel 3 feet x 18 inches'],['163'],['205']
+326,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['1/4 inch and over in thickness. Individual pieces not over 60 x 18 inches (charging box size)'],,,['Wrougt iron and/or steel'],,,['Prepared in a manner to insure compact charging.'],,['No. 1 Heavy Melting Steel 5 feet x 18 inches'],['160'],['202']
+327,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Maximum size 36 x18 inches'],,,['Wrougt iron and steel '],,,['Black and galvanized. May include all automobile scrap properly prepared.'],,['No. 2 Heavy Melting Steel'],['162'],['204']
+328,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Maximum size 2 feet by 5 feet'],"[' clippings', ' stampings etc. ', 'Sheet']","[' and electrical sheet containing over 0.5 percent silicon.', ' limed', 'Metal coated', ' vitreous enameled']",['Steel'],,,"[' stampings', 'Clean steel scrap', ' etc.). May not include old auto body and fender stock.', ' sheet clippings', ' including new factory busheling (for example']",,['No. 1 Busheling'],['165'],['207']
+329,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Weighing not less than 75 pounds per cubic foot.'],"['Sheet', ' clippings or skeleton ']","[' limed', ' and electrical sheet containing over 0.5 percent silicon', 'Metal coated', ' vitreous enameled']",['Black steel '],,,"[' tightly secured. May include chemically detinned material. May not include old auto body or fender stock.', ' to charging box size. (Hand bundles are tightly secured for handling with a magnet.) May include Stanley balls or mandrel wound bundles or skeleton reels', 'Compressed or hand bundled']",,['No. 1 Bundles'],['167'],['208']
+330,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Average density 70 pounds per cubic foot.'],,,['Iron and Steel '],,,"['Homogeneous', ' unprepared No. 1 and No. 2 steel', ' originating from automobiles', ' miscellaneous baling and sheet scrap.', ' magnetically separated']",,['Shredded Scrap'],['170'],['211']
+331,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['1/4 inch and over in thickness. Individual pieces not over 60 x 24 inches (charging box size)'],,,['Wrougt iron and/or steel'],,,['Prepared in a manner to insure compact charging.'],,['No. 1 Heavy Melting Steel'],['158'],['200']
+332,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Maximum size 60 x18 inches'],,['Sheet iron or thin gauged material'],['Wrougt iron and steel '],,,['Black and galvanized. May include all automobile scrap properly prepared.'],,['No. 2 Heavy Melting Steel 5 feet x 18 inches'],['164'],['206']
+333,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['Average density 50 pounds per cubic foot.'],,,['Iron and Steel '],,,"['Homogeneous', ' unprepared No. 1 and No. 2 steel', ' originating from automobiles', ' miscellaneous baling and sheet scrap.', ' magnetically separated']",,['Shredded Scrap'],['169'],['210']
+334,IS_COMPOSED_OF,700,STEEL,,,['Ferrous Scrap '],,['1/8 inch and over in thickness'],,,['Wrougt iron and steel '],,,['Black and galvanized. Charging box size to include material not suitable as No. 1 heavy melting steel. Prepared in a manner to insure compact charging.'],,['No. 2 Heavy Melting Steel'],['161'],['203']
+335,IS_COMPOSED_OF,701,STAINLESS STEEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Turnings'],"[' oil and other contaminants.', ' nonmetallics', 'Nonferrous metals', ' excessive iron']",['Stainless Steel'],,,['Consist of clean 18-8 type stainless steel turnings containing a minimum 7% nickel and 16% chrome'],,['Stainless Steel Turnings'],['142'],['Ultra']
+336,IS_COMPOSED_OF,701,STAINLESS STEEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Clips and Solids '],['Harmful contaminants'],['Stainless Steel'],,,"[' .50% copper', 'Consist of clean 18-8 type stainless steel clips and solids containing a minimum 7% nickel', ' and have a maximum of .50% molybdenum', ' and .03% sulfur', ' 16% chrome', ' .045% phosphorous']",,['Stainless Steel Scrap'],['141'],['Sabot']
+337,IS_COMPOSED_OF,701,STAINLESS STEEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Scrap Solids '],['Foreign attachments and other contamination.'],['Stainless Steel'],,,"['Consist of all types of clean AISI Series Stainless Steel Scrap Solids', ' which contain a maximum of .5% copper']",,['200 Series Stainless Steel Scrap Solids'],['140'],['Pekoe']
+338,IS_COMPOSED_OF,702,IRON,,,['Ferrous Scrap '],,,"[' drillings', ' screw cuttings and borings (iron) ', 'Turnings']","[' or excessive oil', 'Springy', ' lumps', ' grindings', ' tangled or matted material', ' nonferrous metals in a free state', ' bushy', ' iron borings']",,,,"['Clean. May include any such material whether resulting from crushing', ' or other processes.', ' raking']",,['Shoveling Turnings and Iron Borings'],['181'],['222']
+339,IS_COMPOSED_OF,702,IRON,,,['Ferrous Scrap '],,,['Borings'],,['Iron'],,,,,['Briquetted Iron Borings'],['185'],['226']
+340,IS_COMPOSED_OF,702,IRON,,,['Ferrous Scrap '],,,['Trunings and borings (iron)'],"[' or excessive oil', ' nonferrous metals in a free state', 'Iron borings', ' scale']",['Wrought Iron or steel'],,,['Clean. May not include badly rusted or corroded stock.'],,['Machine Shop Turnings and Iron Borings'],['179'],['220']
+341,IS_COMPOSED_OF,702,IRON,,,['Ferrous Scrap '],,['Average density 70 pounds per cubic foot.'],,,['Iron and Steel '],,,"['Homogeneous', ' unprepared No. 1 and No. 2 steel', ' originating from automobiles', ' miscellaneous baling and sheet scrap.', ' magnetically separated']",,['Shredded Scrap'],['170'],['211']
+342,IS_COMPOSED_OF,702,IRON,,,['Ferrous Scrap '],,['Average density 50 pounds per cubic foot.'],,,['Iron and Steel '],,,"['Homogeneous', ' unprepared No. 1 and No. 2 steel', ' originating from automobiles', ' miscellaneous baling and sheet scrap.', ' magnetically separated']",,['Shredded Scrap'],['169'],['210']
+343,IS_COMPOSED_OF,703,MAGNESIUM,,,['Nonferrous Scrap - Magnesium'],,,['Clips'],"[' aluminum', ' foreign attachments', ' zinc flashings and excessive oild and grease', 'Copper']",['Magnesium '],,,"[' be in crucible size ', 'Clean']",,['Magnesium Clips'],['111'],['Wafer']
+344,IS_COMPOSED_OF,703,MAGNESIUM,,,['Nonferrous Scrap - Magnesium'],,,['Engraver plates '],"[' foreign attachments', ' zinc', ' and electrotype plates', ' aluminum', 'Copper']",['Magnesium '],,,['Clean '],,['Magnesium Engraver Plates'],['113'],['Wine']
+345,IS_COMPOSED_OF,703,MAGNESIUM,,,['Nonferrous Scrap - Magnesium'],,,['Dockboards'],['Foreign attachments'],['Magnesium '],,,"[' cut or broken ', 'Clean']",,['Magnesium Dockboards'],['114'],['Wood']
+346,IS_COMPOSED_OF,703,MAGNESIUM,,,['Nonferrous Scrap - Magnesium'],,,"[' transmission casings', ' extrusions and sheet', 'Castings', ' engine blocks', ' bomber and car wheels']","[' hollow castings and explosives ', ' anodes', ' copper insers foreign attachments', 'Brass']",['Magnesium '],,,,,['Magnesium Scrap'],['112'],['Walnut']
+347,IS_COMPOSED_OF,703,MAGNESIUM,,,['Nonferrous Scrap - Magnesium'],,,['Turnings'],,['Magnesium '],,,,,['Magnesium Turnings'],['115'],['World']
+348,IS_COMPOSED_OF,704,NICKEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' other solids ', ' tube', ' bar', ' plate', 'Sheet']","[' soldered', ' foreign attachments', ' or any other contamination.', ' other metallic coating', 'Castings', ' brazed', ' sweated', ' or painted material']",,,,['Old and/or new. Material to contain a minimum of 98% nickel; Copper maximum 0.50%.'],,['Old Nickel Scrap'],['127'],['Burly']
+349,IS_COMPOSED_OF,704,NICKEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' other solids ', ' tube', ' bar', ' plate', 'Sheet']","['Castings', ' as well as any foreign attachments or other contamination.']",['Wrought nickel '],,,['Clean. Nickel minimum 99%; Cobalt maximum 0.25%; Copper maximum 0.50%.'],,['New Nickel Scrap'],['126'],['Aroma']
+350,IS_COMPOSED_OF,705,CUPRO NICKEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' or borings', 'Spinnings', ' turnings']",,['Cupro nickel '],,,"[' 90/10 cupro nickel spinnings', ' 80/20', ' segregated (normally accepted analysis grades) either 70/30', ' or borings.', ' turnings', 'Clean']",,"['Cupro Nickel Spinnings', ' Turnings', ' Borings']",['130'],['Decoy']
+351,IS_COMPOSED_OF,705,CUPRO NICKEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Solids '],['Trimmed seams and edges and all other contamination.'],['Cupro nickel '],,,"[' soldered', ' 80/20', ' 90/10 cupro nickel solids', ' or sweated material.', 'Consist of segregated (normally accepted analysis grades) either 70/30', ' brazed']",,['Soldered Cupro Nickel Solids'],['131'],['Delta']
+352,IS_COMPOSED_OF,705,CUPRO NICKEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' pipe', 'Tube', ' plate or other wrought solids ', ' sheet']",['Foreign attachments or any other contamination'],['Cupro nickel '],,,"[' or 90/10 cupro nickel tube', ' pipe', ' 80/20', ' segregated (normally accepted analysis grades) either 70/30', ' or other wrought solid forms.', ' plate', ' sheet', ' new', 'Clean']",,['New Cupro Nickel Clips and Solids'],['128'],['Dandy']
+353,IS_COMPOSED_OF,705,CUPRO NICKEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' pipe', 'Tube', ' plate or other wrought solids ', ' sheet']",['Foreign attachments and all other contamination.'],['Cupro nickel '],,,"[' pipe', ' 90/10 cupro nickel tube', ' 80/20', ' segregated (normally accepted analysis grades) either 70/30', ' and/or new', ' plate', 'Old', ' or other wrought solid forms. Maximum 2% sediment allowable.', ' sheet']",,['Cupro Nickel Solids'],['129'],['Daunt']
+354,IS_COMPOSED_OF,706,NICKEL-COPPER,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' plating racks', ' hangers)', 'Miscellaneous scrap (e.g. peelings']",,['Copper/Nickel '],,,"['Consist of miscellaneous scrap in which the basic elements', ' and all nickel and copper in attached or combined form. In all cases', ' by weight', ' such as copper nickel peelings', ' and hangers', ' miscellaneous nickel copper scrap should be sold by description and analysis.', ' are nickel and copper', ' plating racks']",,['null'],['132'],['Depth']
+355,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Castings'],['Foreign attachments or any other contamination'],['Monel '],,,"[' assaying minimum 60% nickel.', 'Shall consist of various types of clean Monel castings']",,['Monel Castings'],['138'],['Lemon']
+356,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Turnings'],,['Monel '],,,"[' on a dry basis.', 'Shall consist of mixed Monel turnings and borings containing a minimum of 60% nickel content']",,['Monel Turnings'],['139'],['Lemur']
+357,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Solids and Clippings'],['Foreign attachments or all other contamination.'],['R-Monel/K-Monel'],,,"['New', ' clean R and K-monel solids and clippings ']",,['New Mixed Monel Solids and Clippings'],['134'],['House']
+358,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' pipe', ' screen and wire cloth)', ' forgings', 'Solids (e.g. sheet', ' plate', ' rods']","[' foreign attachments', ' or sweated material', ' welded', ' brazed', 'Soldered', ' cast material', ' and all other contamination']",['R-Monel/K-Monel'],,,['Clean'],,['Old Monel Sheet and Solids'],['135'],['Ideal']
+359,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Solids'],"[' non-metallic filling', ' foreign attachments', 'Trimmed seams and edges', ' and all other contamination.']",['Monel '],,,['Consist of soldered and/or brazed miscellaneous grades of Monel alloys in either wrought or cast form.'],,['Soldered Monel Sheet and Solids'],['137'],['Junto']
+360,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Solids'],,['K-Monel'],,,['Clean '],,['K-Monel Solids'],['136'],['Indian']
+361,IS_COMPOSED_OF,707,MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' pipe', ' tube', ' bar', ' rod', ' other wrought scrap ', ' plate', 'Sheet']",['Foreign attachments or all other contamination.'],['R-Monel'],,,"[' pipe', ' tube', ' bar', ' rod', ' or any other wrought scrap. ', ' plate', ' R-Monel sheet', ' new', 'Clean']",,['New R-Monel Clippings and Solids'],['133'],['Hitch']
+362,IS_COMPOSED_OF,708,R-MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,"[' pipe', ' tube', ' bar', ' rod', ' other wrought scrap ', ' plate', 'Sheet']",['Foreign attachments or all other contamination.'],['R-Monel'],,,"[' pipe', ' tube', ' bar', ' rod', ' or any other wrought scrap. ', ' plate', ' R-Monel sheet', ' new', 'Clean']",,['New R-Monel Clippings and Solids'],['133'],['Hitch']
+363,IS_COMPOSED_OF,709,K-MONEL,,,['Nonferrous Scrap - Nickel/Stainless/Hi Temp'],,,['Solids'],,['K-Monel'],,,['Clean '],,['K-Monel Solids'],['136'],['Indian']
