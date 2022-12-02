@@ -112,16 +112,12 @@ skope_rules_clf.fit(X_train.values, y_train.values.reshape(-1,))
 print(str(len(skope_rules_clf.rules_)) + ' rules have been built with ' +
       'SkopeRules.\n')
 
-for i_rule, rule in enumerate(skope_rules_clf.rules_[:4]):
-    print(rule[0])
-
-
 def rules_to_txt(rules, filename):
 
     # open file in write mode
     with open(r'../rules/'+filename, 'w') as fp:
         for item in rules:
             # write each item on a new line
-            fp.write("%s\n" % item)
+            fp.write("%s\n" % str(item))
 
 rules_to_txt(skope_rules_clf.rules_, 'SkopeRules.txt')

@@ -25,12 +25,19 @@ from imblearn.under_sampling import EditedNearestNeighbours
 import xgboost as xgb
 import lightgbm as lgb
 
+import os
 
 # ===================
 # Input variables
 # ===================
 SEED = 42
+N_ITER = 20
 filename = '../models/test_30'
+
+if not os.path.exists(filename):
+    os.makedirs(filename)
+
+# os.mkdir(filename)
 
 
 def get_rules(tree, feature_names, class_names):
@@ -124,7 +131,7 @@ def black_box(model, model_name, param_grid):
 
         else:
 
-            best_model = tune_model(model, param_grid, 300, X_train, y_train.values.ravel())
+            best_model = tune_model(model, param_grid, N_ITER, X_train, y_train.values.ravel())
             score, y_pred = run_model(best_model, X_train, y_train.values.ravel(),
                 X_test, y_test.values.ravel())
 
